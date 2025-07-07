@@ -29,8 +29,12 @@ Se hacen las modificaciones oportunas (dejando la rama `main` a salvo) y se desp
 Si se mejora el temario base en `main`, se puede actualizar la rama de un curso concreto:
 
 ```bash
-git checkout curso-nuevo
-git merge main
+git checkout main  # Cambiamos a main
+git pull origin main # Nos aseguramos de tener la última versión remota
+git checkout curso-nuevo # Nos cambiamos a la rama concreta
+git merge main # Y la fusionamos
+
+# Así la rama curso-nuevo tendrá todos los cambios que estaban en main más sus propias personalizaciones.
 ```
 
 Recuerda actualizar el `README.md` para explicar las ramas y los cambios y las fechas.
