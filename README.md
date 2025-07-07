@@ -4,7 +4,9 @@ Versión completa con temario agrupado en Básico y Avanzado. Tiene píldoras ad
 
 ## Enlaces
 
-- Netlify: [https://curso-office365.netlify.app/](https://curso-office365.netlify.app/)
+Actualmente ejecutando la rama `inserta-andalucia`.
+
+- Netlify: [https://curso-office365.netlify.app/](https://curso-office365.netlify.app/). 
 - GitHub: [https://borilio.github.io/curso-microsoft365/](https://borilio.github.io/curso-microsoft365/)
 
 ## Ramas
