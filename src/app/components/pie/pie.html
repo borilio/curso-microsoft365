@@ -1,0 +1,16 @@
+<footer class="footer bg-primario degradado rounded-top-4 mt-5">
+    <div class="container ">
+
+        <div class="row justify-content-center p-3">
+
+            @for (logo of footer.logos; track logo) {
+            <div class="col mb-1">
+                <a [href]="logo.link" target="_blank">
+                    <img [src]="logo.img" [alt]="logo.alt" class="footer-logo img-fluid" />
+                </a>
+            </div>
+            }
+        </div>
+
+    </div>
+</footer>

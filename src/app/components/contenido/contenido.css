@@ -1,0 +1,18 @@
+.tarjeta {
+    margin-top: 8rem;
+    margin-bottom: 5rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    /* Borde simple y redondeado usando el color primario de PrimeNG */
+    border: 1px solid var(--p-primary-500);
+    border-radius: 10px; 
+    overflow: hidden; /* Para que el contenido respete los bordes */
+}
+
+/* Posiciona el speed dial en la esquina inferior izquierda */
+.boton-flotante {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 1.5rem;
+  z-index: 1000;
+}

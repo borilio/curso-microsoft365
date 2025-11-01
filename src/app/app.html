@@ -1,0 +1,21 @@
+<div class="app-container">
+    <app-cabecera></app-cabecera>
+
+    <main class="main-content">
+        <router-outlet></router-outlet>
+    </main>
+
+    <!-- El botón de volver para arriba que esté disponible en todas los componentes que se usen -->
+    <p-scrollTop 
+        target="window" 
+        icon="pi pi-arrow-up" 
+        [threshold]="500"
+        [buttonProps]="{
+            severity: 'primary',
+            rounded: true,
+            outlined: true
+        }" 
+    />
+
+    <app-pie></app-pie>
+</div>

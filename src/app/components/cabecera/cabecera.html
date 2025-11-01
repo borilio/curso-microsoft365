@@ -1,0 +1,58 @@
+<header class="fixed-top degradado text-light p-3 rounded-bottom-4">
+    <!-- TODO Mejorar esto -->
+    <div class="mb-3" [hidden]="true">
+        <span class="lead">Temar.io</span>
+    </div>
+
+    <!-- Navegación -->
+    <div>
+        <!-- TODO Arreglar que funcione siempre el routerLinkActive -->
+        <p-menubar [model]="items">
+            <ng-template #start>
+                <div class="logo-container">
+                    <img class="menubar-logo" src="img/logo-700x700.png" alt="Logo" />
+                    <span class="menubar-title" [hidden]="true">Temar.io</span>
+                </div>
+            </ng-template>
+
+            <ng-template #end>
+                <div class="flex items-center gap-2">
+                    <p-buttongroup>
+                        <!-- <p-button 
+                            icon="pi pi-info-circle" 
+                            routerLink="/acercade"
+                            pTooltip="Acerca de"
+                            tooltipPosition="bottom"
+                            text="true"
+                        />
+                        <p-button 
+                            icon="pi pi-external-link" 
+                            routerLink="/enlaces"
+                            pTooltip="Enlaces externos"
+                            tooltipPosition="bottom"
+                            text="true"
+                        /> -->
+                        <p-button 
+                            icon="pi pi-cog" 
+                            (onClick)="this.mostrarDialogo()" 
+                            pTooltip="Configuración"
+                            tooltipPosition="left" 
+                            text="true"
+                            rounded="true"
+                        />
+                    </p-buttongroup>
+                </div>
+            </ng-template>
+        </p-menubar>
+    </div>
+</header>
+
+
+<p-toast position="top-center" />
+
+<p-dialog header="Configuración" [modal]="true" [(visible)]="visible" [maximizable]="true">
+    <app-config></app-config>
+    <ng-template #footer>
+        <p-button label="Aceptar" severity="primary" (click)="visible = false" />
+    </ng-template>
+</p-dialog>

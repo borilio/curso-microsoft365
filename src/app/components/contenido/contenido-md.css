@@ -1,0 +1,116 @@
+/*
+Aquí añadiremos estilos para forzar algunos estilos contenido html generado por el markdown-it
+*/
+
+/* 1. El contenedor principal (.markdown-body)
+   Sigue teniendo el borde y los márgenes de página.
+   Le quitamos el padding porque ahora lo gestiona el grid. */
+.markdown-body {
+  padding: 2rem;
+}
+
+/* 2. Para pantallas grandes, activamos la maquetación Grid */
+@media (min-width: 1200px) {
+  .markdown-body {
+    display: grid;
+    /* Crea 3 columnas: [espacio flexible] [contenido de 1024px] [espacio flexible] */
+    grid-template-columns: 1fr minmax(0, 1024px) 1fr;
+  }
+
+  /* 3. Le decimos a TODOS los hijos directos que se pongan en la segunda columna (la central) */
+  .markdown-body > * {
+    grid-column: 2;
+  }
+}
+
+
+
+/*
+  Aplicamos fira code a todo el código, ya sea en bloques, en línea o para kbd.
+  Usamos !important para asegurar que esta regla anule a las del tema base.
+*/
+.markdown-body pre code,
+.markdown-body code,
+.markdown-body kbd {
+  font-family: 'Fira Code', monospace !important;
+}
+
+
+/*
+  Las imágenes y las tablas por defecto, las convierte en elementos de bloque y las centra horizontalmente.
+*/
+.markdown-body img,
+.markdown-body table {
+  display: block;
+  margin: 1rem auto; /* 1rem arriba y abajo, y auto izquierda y derecha */
+}
+
+/* Anulación para imágenes en línea */
+.markdown-body img.img-inline {
+  display: inline-block; /* La hace en línea */
+  margin: 0 0.25rem;    /* Le da un pequeño margen */
+  vertical-align: middle; /* La alinea verticalmente con el texto */
+}
+
+/* ==============================================
+   ESTILOS PARA BLOQUES DE CÓDIGO (Versión Simplificada Final)
+   ============================================== */
+
+/* --- Estructura --- */
+.code-block-wrapper app-code-header {
+  display: block;
+}
+
+.code-block-wrapper {
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  overflow: hidden;
+  /* Se define el grosor y estilo, pero no el color */
+  border: 1px solid;
+}
+
+.code-block-wrapper pre {
+  margin: 0 !important;
+  border: none !important;
+  border-radius: 0 !important;
+  /* Se define el grosor y estilo, pero no el color */
+  border-top: 1px solid !important;
+}
+
+
+/* --- Colores de borde por Tema --- */
+
+/* Tema Claro */
+[data-theme="light"] .code-block-wrapper,
+[data-theme="light"] .code-block-wrapper pre {
+  border-color: var(--p-surface-300) !important;
+}
+
+/* Tema Oscuro */
+[data-theme="dark"] .code-block-wrapper,
+[data-theme="dark"] .code-block-wrapper pre {
+  border-color: var(--p-surface-700) !important;
+}
+
+/******* ESTILOS DEL TOC (tanto el drawer como en contenido) *******/
+.table-of-contents a {
+  text-decoration: none;
+  color: var(--p-primary-color);
+}
+.table-of-contents a:hover {
+  text-decoration: underline;
+}
+
+/* Y lo mismo para la indentación */
+.table-of-contents ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.table-of-contents ul ul {
+  padding-left: 1.5rem;
+}
+
+/* Pero ocultamos el TOC principal, solo vemos el del drawer */
+.markdown-body .table-of-contents {
+  display: none;
+}

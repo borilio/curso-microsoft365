@@ -1,0 +1,66 @@
+{
+    "preset": "MiPresetBlue",
+    "defaultThemeId": "typora",
+    "mostrarLigadurasFuentes": true,
+    "devMode": false,
+    "data": {
+        "copyright": "",
+        "logos": [
+            {
+                "img": "img/logo1.png",
+                "link": "https://meridianos.org/",
+                "alt": "Logo de Meridianos"
+            },
+            {
+                "img": "img/logo2.png",
+                "link": "https://www.arelance.com/",
+                "alt": "Logo de Arelance"
+            },
+            {
+                "img": "img/logo3.png",
+                "link": "",
+                "alt": "Logo del Fondo Social Europeo"
+            }
+        ]
+    },
+    "themes": [
+        {
+            "id": "github-light",
+            "name": "GitHub Claro",
+            "baseMode": "light",
+            "markdownThemeFile": "github-markdown-light.css",
+            "highlightThemeFile": "github.css"
+        },
+        {
+            "id": "github-dark",
+            "name": "GitHub Oscuro",
+            "baseMode": "dark",
+            "markdownThemeFile": "github-markdown-dark.css",
+            "highlightThemeFile": "github-dark.css"
+        },
+        {
+            "id": "typora",
+            "name": "Typora",
+            "baseMode": "dark",
+            "markdownThemeFile": "github-markdown-darky.css",
+            "highlightThemeFile": "base16/dracula.css"
+        }
+    ],
+    "enlacesExternos": {
+        "texto": "Aquí se mostrarán todos los enlaces externos que usaremos durante el curso, tales como ejercicios, calendarios, plataforma educativa, plataforma de mensajería, etc.",
+        "enlaces": [
+            {
+                "icon": "pi pi-microsoft",
+                "desc": "Portal Microsoft 365 en la nube (office.com)",
+                "descLarga": "Acceso a todas las aplicaciones de Microsoft 365 en la nube",
+                "href": "https://www.office.com"
+            },
+            {
+                "icon": "pi pi-users",
+                "desc": "Grupo de Teams",
+                "descLarga": "Grupo de Microsoft Teams creado para el curso de Microsoft 365",
+                "href": ""
+            }
+        ]
+    }
+}

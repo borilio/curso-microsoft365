@@ -1,0 +1,67 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Los CSS insertados de Bootstrap y demás están declarados en el angular.json */
+
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap");
+
+html {
+  background: var(--p-surface-100); /* Claro */
+  scroll-padding-top: 7rem; /* Ajusta este valor a la altura exacta de tu cabecera */
+}
+html.dark-mode {
+  background: var(--p-surface-700); /* Oscuro */
+}
+/* El body tiene que heredar lo de html para aplicar correctamente el color de surface (cosas del scope de las variables en css) */
+body {
+  background: inherit;
+  min-height: 100vh;
+}
+
+.fuente-firacode {
+  font-family: "Fira Code", monospace;
+}
+
+/* Para deshabilitar las ligaduras de fuente */
+.disable-ligaduras {
+  font-feature-settings: "liga" 0, "clig" 0 !important;
+  font-variant-ligatures: none !important;
+}
+
+/* Para usar el color primario de fondo */
+.bg-primario {
+  background-color: var(--p-primary-500);
+  color: var(--p-primary-color-text, #fff);
+}
+
+/* Para usar el color primario */
+.color-primario {
+  color: var(--p-primary-500, #fff);
+}
+
+/* Aplicamos un degrado usando los colores del preset */
+.degradado {
+  background: linear-gradient(
+    to top,
+    var(--p-primary-700),
+    var(--p-primary-500)
+  );
+  color: var(--p-primary-color-text, #fff);
+}
+
+/*
+  Esta regla se aplica al elemento <li> del menú cuando está activo,
+  dándole un color de fondo para resaltarlo.
+*/
+.p-menubar .p-menuitem.p-highlight {
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.1
+  ); /* Un fondo semitransparente de ejemplo */
+}
+
+/* Para el tema oscuro, puedes querer un resaltado más claro */
+[data-theme="dark"] .p-menubar .p-menuitem.p-highlight {
+  background-color: rgba(255, 255, 255, 0.1);
+}
