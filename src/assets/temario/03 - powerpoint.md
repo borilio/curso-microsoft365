@@ -1,6 +1,7 @@
-<div style="padding: 2rem; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; background-color: #d9edf7; border-color: #bce8f1; color: #31708f; text-align: center; font-size: 3.5rem">
-  3. Microsoft PowerPoint
+<div style="padding: 1.5rem; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; background-color: #d9edf7; border-color: #bce8f1; color: #31708f; text-align: center; font-size: 2.5rem; display: inline-block; width: 100%;">
+    <p>3. Microsoft PowerPoint</p>
 </div>
+
 
 
 
@@ -30,6 +31,8 @@ Algunos ejemplos de su aplicación práctica podrían ser:
 
 En definitiva, siempre que se quiera exponer información de forma visual y agradable para captar la atención del interlocutor.
 
+---
+
 # Elementos de la pantalla principal 
 
 Al iniciar PowerPoint, aparece una **pantalla inicial** como la que te mostramos a continuación. Ahora conoceremos los **nombres de los diferentes elementos** de esta pantalla y así será más fácil entender el resto del curso.
@@ -46,7 +49,7 @@ Comentemos, a grandes rasgos, las **características** de cada elemento.
 
 2. **El área de esquema** muestra en miniatura las diapositivas que vamos creando referenciadas con su número. Al seleccionar una diapositiva en el área de esquema aparecerá inmediatamente la diapositiva en el área de trabajo central para poder modificarla.
 
-3. La **barra de herramientas de acceso rápido** ![barra acceso rápido](img/03 - powerpoint/barra_acceso_rapido_2016.png) contiene, normalmente, las opciones que se utilizan más frecuentemente. Éstas son **Guardar**, **Deshacer**, **Rehacer** y **Presentación desde el principio** (para comenzar con la presentación de diapositivas a pantalla completa). 
+3. La **barra de herramientas de acceso rápido** ![barra acceso rápido](img/03 - powerpoint/barra_acceso_rapido_2016.png){.img-inline} contiene, normalmente, las opciones que se utilizan más frecuentemente. Éstas son **Guardar**, **Deshacer**, **Rehacer** y **Presentación desde el principio** (para comenzar con la presentación de diapositivas a pantalla completa). 
 
 4. La **barra de título** contiene el nombre del documento abierto que se está visualizando, además del nombre del programa. En este caso el nombre es **`Le damos la bienvenida a PowerPoint`**.
 
@@ -56,17 +59,15 @@ Comentemos, a grandes rasgos, las **características** de cada elemento.
 
 7. Al modificar el **zoom**, podremos alejar o acercar el punto de vista, para apreciar en mayor detalle o ver una vista general de las diapositivas que se encuentran en el área de trabajo.
 
-8. Con los botones de vistas ![img](img/03 - powerpoint/botones_vista_2016.png) podemos elegir el **tipo de Vista** que queremos utilizar según nos convenga. Por ejemplo, podemos tener una vista general de todas las diapositivas que tenemos, también podemos ejecutar la presentación para ver cómo queda, etc.
+8. Con los botones de vistas ![img](img/03 - powerpoint/botones_vista_2016.png){.img-inline} podemos elegir el **tipo de Vista** que queremos utilizar según nos convenga. Por ejemplo, podemos tener una vista general de todas las diapositivas que tenemos, también podemos ejecutar la presentación para ver cómo queda, etc.
 
-9. El **Área de notas** será donde añadiremos las anotaciones de apoyo para realizar la presentación. Para mostrarla u ocultarla, pulsaremos sobre el botón **Notas** ![icono notas](img/03 - powerpoint/icono_notas_2016.png).
+9. El **Área de notas** será donde añadiremos las anotaciones de apoyo para realizar la presentación. Para mostrarla u ocultarla, pulsaremos sobre el botón **Notas** ![icono notas](img/03 - powerpoint/icono_notas_2016.png){.img-inline}.
 
    ![img](img/03 - powerpoint/area_notas_powerpoint_2013.gif)
 
 10. La **barra de estado** muestra información del estado del documento, como el número de diapositiva en el que nos encontramos y el total de diapositivas, etc.
 
 ---
-
-<div style="page-break-after: always;"></div>
 
 # Crear presentación
 
@@ -102,8 +103,6 @@ Una vez descargada, nos abrirá una presentación con un contenido que podremos 
 
 ---
 
-<div style="page-break-after: always;"></div>
-
 # Cambiar de vista
 
 El saber manejar los tipos de vistas es muy importante ya que nos va a permitir tener tanto una visión particular de cada una de las diapositivas como una visión global de todas ellas, así como reproducir la presentación para ver el resultado al final.
@@ -112,7 +111,7 @@ Podemos cambiar de una vista a otra desde la pestaña **`Vista`** > **`Vistas de
 
 ![image-20240507201535742](img/03 - powerpoint/image-20240507201535742.png)
 
-También desde la esquina inferior derecha ![image-20240507201500070](img/03 - powerpoint/image-20240507201500070.png).
+También desde la esquina inferior derecha ![image-20240507201500070](img/03 - powerpoint/image-20240507201500070.png){.img-inline}.
 
 Las más útiles son:
 
@@ -138,12 +137,10 @@ La forma más fácil de usar el zoom es colocando el cursor del ratón sobre la 
 
 Las más útiles son:
 
-- **Desde la diapositiva actual:** Lo habitual es reproducir la presentación desde la diapositiva que se está visualizando en ese momento, normalmente para ver cómo queda la diapositiva que acabamos de realizar y poder apreciar todos los elementos, incluidos los efectos animados que no se apreciarían en ninguna otra vista. También se puede desde el último botón de la barra de título ![image-20240507203022099](img/03 - powerpoint/image-20240507203022099.png).
+- **Desde la diapositiva actual:** Lo habitual es reproducir la presentación desde la diapositiva que se está visualizando en ese momento, normalmente para ver cómo queda la diapositiva que acabamos de realizar y poder apreciar todos los elementos, incluidos los efectos animados que no se apreciarían en ninguna otra vista. También se puede desde el último botón de la barra de título ![image-20240507203022099](img/03 - powerpoint/image-20240507203022099.png){.img-inline}.
 - **Desde el principio:** Reproduce la presentación desde la primera diapositiva, independientemente de la diapositiva que esté seleccionada. Por si queremos ver el resultado final total.
 
 ---
-
-<div style="page-break-after: always;"></div>
 
 # Trabajar con diapositivas
 
@@ -213,8 +210,6 @@ A veces querrás hacer acciones sobre varias diapositivas a la vez (borrarlas, m
 
 ---
 
-<div style="page-break-after: always;"></div>
-
 # Añadir contenido
 
 Una vez que ya sabemos trabajar con diapositivas, el siguiente paso es rellenarlas de contenido. En las diapositivas tendremos **objetos**, que podemos aprovechar los que ya vienen incluidos en nuestra plantilla o bien insertarlos nosotros de forma independiente.
@@ -237,8 +232,6 @@ Prácticamente en su totalidad, son objetos que nos resultarán familiares ya se
 
 ---
 
-<div style="page-break-after: always;"></div>
-
 # Aplicar un tema
 
 Igual que pasaba en Word y Excel, tenemos disponibles unos **temas para nuestra presentación**. Al aplicar un tema, toda ella adquirirá unos colores básicos que guardan cierta armonía y todas las diapositivas tendrán una coherencia estética. Se verán homogéneas sin apenas esfuerzo. También veremos que disponemos de **estilos rápidos** que nos permiten cambiar radicalmente el formato de un elemento de la diapositiva de forma inmediata.
@@ -252,8 +245,6 @@ Hay dos formas básicas de aplicar un tema a una presentación:
    ![Ficha Diseño > Temas](img/03 - powerpoint/disenyo-temas_2013.gif)
 
 ---
-
-<div style="page-break-after: always;"></div>
 
 # Notas del orador
 
@@ -280,8 +271,6 @@ Las **notas del orador** en PowerPoint son una herramienta útil para los presen
 
 ---
 
-<div style="page-break-after: always;"></div>
-
 # Intervalos
 
 Los **intervalos** en PowerPoint son una herramienta útil para controlar el tiempo de avance entre diapositivas durante una presentación. 
@@ -291,7 +280,7 @@ De esta forma no te alargarás o pasarás demasiado rápido por una diapositiva,
 1. **Cómo establecer intervalos en PowerPoint:**
 
    - Ve a la pestaña “Presentación con diapositivas”.
-   - Selecciona la opción "Ensayar con intervalos". ![image-20240508202000862](img/03 - powerpoint/image-20240508202000862.png)
+   - Selecciona la opción "Ensayar con intervalos". ![image-20240508202000862](img/03 - powerpoint/image-20240508202000862.png){.img-inline}
    - Se iniciará una presentación normal, y vas avanzando manualmente. Los tiempos que dejas cada diapositiva se irán registrando de forma automática. Una vez terminado la presentación, en la vista "**Clasificador de diapositivas**" podrás ver una marca de tiempo debajo de cada diapositiva.
 
    ![image-20240508202359625](img/03 - powerpoint/image-20240508202359625.png)
@@ -316,8 +305,6 @@ De esta forma no te alargarás o pasarás demasiado rápido por una diapositiva,
 
 ---
 
-<div style="page-break-after: always;"></div>
-
 # Transiciones
 
 La transición de diapositiva nos permite determinar cómo va a producirse el paso de una diapositiva a la siguiente a fin de lograr efectos visuales más estéticos.
@@ -326,7 +313,7 @@ Para aplicar la transición a una diapositiva, **selecciona la diapositiva** y d
 
 ![image-20240509175659289](img/03 - powerpoint/image-20240509175659289.png)
 
-Si pulsamos en el botón para desplegar la ventana ![image-20240509175800896](img/03 - powerpoint/image-20240509175800896.png), se mostrarán todas las transiciones disponibles:
+Si pulsamos en el botón para desplegar la ventana ![image-20240509175800896](img/03 - powerpoint/image-20240509175800896.png){.img-inline}, se mostrarán todas las transiciones disponibles:
 
 ![image-20240509180033194](img/03 - powerpoint/image-20240509180033194.png)
 
@@ -349,14 +336,12 @@ También podemos configurar la forma en que se ejecutará la transición desde e
 
 > [!TIP]
 >
-> Puedes comprobar qué diapositivas tienen efectos de transición o animaciones con un pequeño icono ![image-20240509184828197](img/03 - powerpoint/image-20240509184828197.png) debajo de las miniaturas de la izquierda de la vista **Normal** o en la vista **Clasificador de diapositivas**.
+> Puedes comprobar qué diapositivas tienen efectos de transición o animaciones con un pequeño icono ![image-20240509184828197](img/03 - powerpoint/image-20240509184828197.png){.img-inline} debajo de las miniaturas de la izquierda de la vista **Normal** o en la vista **Clasificador de diapositivas**.
 >
 > ![image-20240509184756950](img/03 - powerpoint/image-20240509184756950.png)
 
 
 ---
-
-<div style="page-break-after: always;"></div>
 
 # Animaciones
 
@@ -402,15 +387,13 @@ Por ejemplo, ahí podemos ver que:
 
 ---
 
-<div style="page-break-after: always;"></div>
-
 # 👨‍🏫Ejercicio
 
 Vamos a proponerte un ejercicio final donde podrás realizar una presentación y exponerla en clase para todos tus compañeros y compañeras.
 
 1. La idea es hacer una presentación de 5 diapositivas como máximo y expongas lo que has aprendido durante el curso. Puedes dedicar una diapositiva para Word, otra para Excel y otra para PowerPoint. En ellas puedes incrustar trozos de los ejercicios que hemos hecho (alguna tabla de Word, algún gráfico de Excel, de portal.office.com, lo que tu quieras).
 2. Puedes elegir una plantilla o realizar todo el trabajo desde cero, como tu quieras. Ten en cuenta el tiempo que tengas disponible para realizar el ejercicio.
-3. Una vez terminada, usa el botón de compartir (arriba a la derecha) ![image-20240509185507132](img/03 - powerpoint/image-20240509185507132.png) para darle acceso al tutor. Añade su correo electrónico y pulsa `Enviar`.
+3. Una vez terminada, usa el botón de compartir (arriba a la derecha) ![image-20240509185507132](img/03 - powerpoint/image-20240509185507132.png){.img-inline} para darle acceso al tutor. Añade su correo electrónico y pulsa `Enviar`.
 
 ![image-20240509190001649](img/03 - powerpoint/image-20240509190001649.png)
 
