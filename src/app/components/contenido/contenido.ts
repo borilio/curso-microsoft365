@@ -27,7 +27,7 @@ export class Contenido implements OnInit {
   public contenidoHTML: SafeHtml;
   public cargandoContenido: boolean;
   public hayError: boolean;
-  public fraseCargando: string = "Cargando contenidos..."; //TODO hacer que salgan frases aleatorias
+  public fraseCargando: string = "Cargando conocimientos..."; //TODO hacer que salgan frases aleatorias
   private routeSuscripcion!: Subscription; // Para estar al corriente de los cambios que se hacen de url
 
   //TOC

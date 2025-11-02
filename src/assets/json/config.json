@@ -1,8 +1,8 @@
 {
     "preset": "MiPresetBlue",
     "defaultThemeId": "typora",
-    "mostrarLigadurasFuentes": true,
-    "devMode": false,
+    "mostrarLigadurasFuentes": false,
+    "devMode": true,
     "data": {
         "copyright": "",
         "logos": [
