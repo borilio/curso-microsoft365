@@ -315,7 +315,7 @@ Como ya sabes, Word se encarga de que el texto que vas introduciendo se contenga
 
 🟦 Los **saltos de página** se insertan automáticamente cuando llegamos al margen inferior de una página y seguimos escribiendo. También se pueden insertar de forma manual si queremos pasar a la página siguiente aunque no hayamos llegado al final, desde la pestaña **Insertar** > grupo **Páginas** > opción **Salto de página**. ![Salto de Página](img/01 - word/salto-de-pagina.gif){.img-inline}
 
- 🟦 La herramienta **Mostrar todo** ![Marca parrafo](img/01 - word/marca-parrafo.gif) te permite saber si un texto ha sido dividido en bloques mediante saltos de línea o mediante párrafos. La encontrarás en la pestaña **Inicio** > grupo **Párrafo**. Tiene el siguiente aspecto: ![Marca parrafo](https://www.aulaclic.es/word-365/graficos/marca-parrafo.gif). Si la utilizas, el documento se llenará de marcas como las que ves en la imagen.
+ 🟦 La herramienta **Mostrar todo** ![Marca parrafo](img/01 - word/marca-parrafo.gif){.img-inline} te permite saber si un texto ha sido dividido en bloques mediante saltos de línea o mediante párrafos. La encontrarás en la pestaña **Inicio** > grupo **Párrafo**. Tiene el siguiente aspecto: ![Marca parrafo](https://www.aulaclic.es/word-365/graficos/marca-parrafo.gif){.img-inline}. Si la utilizas, el documento se llenará de marcas como las que ves en la imagen.
 
 <img src="img/01 - word/image-20251102214959344.png" alt="image-20251102214959344" style="zoom:25%;" class="rounded-2" />
 
