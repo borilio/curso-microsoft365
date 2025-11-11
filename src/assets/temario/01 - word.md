@@ -808,9 +808,9 @@ Existen herramientas de estilo que nos permiten realizar cambios sobre un texto.
 
 Basta **seleccionar el texto y hacer clic** en el botón correspondiente. Al activarse la opción se muestra el fondo gris. Para desactivarlo se sigue el mismo proceso. Como puedes apreciar en la imagen ![Estilo de fuente marcados](img/01 - word/boton-negrita-cursiva-subrayado-marcadas.gif){.img-inline}, se pueden activar varios a la vez.
 
-- ![Negrita](img/01 - word/boton-negrita.gif){.img-inline} **Negrita** (teclas <kbd>CTRL+B</kbd>): Aumenta el grosor de la línea que dibuja los caracteres.
-- ![Negrita](img/01 - word/boton-cursiva.gif){.img-inline} **Cursiva** (teclas <kbd>CTRL+I</kbd>): Inclina el texto ligeramente hacia la derecha.
-- ![Negrita](img/01 - word/boton-subrayado.gif){.img-inline} **Subrayado** (teclas <kbd>CTRL+U</kbd>): Dibuja una línea simple bajo el texto. Si pulsas la pequeña flecha triangular de su derecha se despliega un menú que te permite cambiar el estilo de la línea, pudiendo elegir entre líneas onduladas, discontinuas, dobles, gruesas, etc.
+- ![Negrita](img/01 - word/boton-negrita.gif){.img-inline} **Negrita** (teclas <kbd>CTRL+N</kbd>): Aumenta el grosor de la línea que dibuja los caracteres.
+- ![Negrita](img/01 - word/boton-cursiva.gif){.img-inline} **Cursiva** (teclas <kbd>CTRL+K</kbd>): Inclina el texto ligeramente hacia la derecha.
+- ![Negrita](img/01 - word/boton-subrayado.gif){.img-inline} **Subrayado** (teclas <kbd>CTRL+S</kbd>): Dibuja una línea simple bajo el texto. Si pulsas la pequeña flecha triangular de su derecha se despliega un menú que te permite cambiar el estilo de la línea, pudiendo elegir entre líneas onduladas, discontinuas, dobles, gruesas, etc.
 - ![Negrita](img/01 - word/boton-tachado.gif){.img-inline} **Tachado**: Dibuja una línea sobre el texto.
 - ![Negrita](img/01 - word/boton-subindice.gif){.img-inline} **Subíndice**: Reduce el tamaño del texto y lo sitúa más abajo que el resto del texto.
 - ![Negrita](img/01 - word/boton-superindice.gif){.img-inline} **Superíndice**: Reduce el tamaño del texto y lo sitúa más arriba que el resto del texto.
