@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> La documentación de este repositorio está incompleta. Para ver la actualizada terminada del proyecto temar.io ve a https://github.com/borilio/temar.io
+
+
 # Temar.io
 
 Este proyecto ha sido generado usando [Angular CLI](https://github.com/angular/angular-cli) versión 20.1.0.
