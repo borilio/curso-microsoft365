@@ -7,19 +7,9 @@
         "copyright": "",
         "logos": [
             {
-                "img": "img/logo1.png",
-                "link": "https://meridianos.org/",
-                "alt": "Logo de Meridianos"
-            },
-            {
-                "img": "img/logo2.png",
-                "link": "https://www.arelance.com/",
-                "alt": "Logo de Arelance"
-            },
-            {
-                "img": "img/logo3.png",
+                "img": "img/logo-completo.png",
                 "link": "",
-                "alt": "Logo del Fondo Social Europeo"
+                "alt": ""
             }
         ]
     },
