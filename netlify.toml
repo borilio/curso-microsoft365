@@ -1,0 +1,15 @@
+# Construcción del curso en Netlify.
+# Este repo solo tiene el contenido del curso. Netlify descarga la app temar.io
+# en la versión indicada, le enchufa este curso y construye la web.
+
+[build]
+  command = "rm -rf .temario && git clone --depth 1 --branch \"$TEMARIO_VERSION\" \"$TEMARIO_REPO\" .temario && cd .temario && node scripts/curso.mjs .. && npm ci && npx ng build"
+  publish = ".temario/dist/temar.io/browser"
+
+[build.environment]
+  # Repo de la app temar.io (de donde se descarga la app para construir el curso)
+  TEMARIO_REPO = "https://github.com/borilio/temar.io.git"
+  # Versión de la app: "master" = siempre la última (cursos en desarrollo);
+  # un tag como "v1.0" = anclado a esa versión (cursos terminados).
+  TEMARIO_VERSION = "master"
+  NODE_VERSION = "22"          # la app pide Node ^22.16

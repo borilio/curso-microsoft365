@@ -1,0 +1,41 @@
+{
+    "nombreCurso": "Microsoft 365",
+    "preset": "MiPresetEmerald",
+    "defaultThemeId": "typora",
+    "temasDisponibles": ["github-light", "github-sepia", "typora", "github-dark", "cervantes", "retro", "hud"],
+    "mostrarLigadurasFuentes": false,
+    "devMode": true,
+    "data": {
+        "copyright": "",
+        "logos": [
+            {
+                "img": "img/logo-completo.png",
+                "link": "",
+                "alt": ""
+            }
+        ]
+    },
+    "enlacesExternos": {
+        "texto": "Aquí se mostrarán todos los enlaces externos que usaremos durante el curso, tales como ejercicios, calendarios, plataforma educativa, plataforma de mensajería, etc.",
+        "enlaces": [
+            {
+                "icon": "pi pi-microsoft",
+                "desc": "Portal Microsoft 365 en la nube (office.com)",
+                "descLarga": "Acceso a todas las aplicaciones de Microsoft 365 en la nube",
+                "href": "https://www.office.com"
+            },
+            {
+                "icon": "pi pi-users",
+                "desc": "Grupo de Teams",
+                "descLarga": "Grupo de Microsoft Teams creado para el curso de Microsoft 365",
+                "href": ""
+            }
+        ]
+    },
+    "caducidad": {
+        "fecha": "2099-01-01",
+        "aviso": 30,
+        "mensajeAviso": "Los contenidos de este curso se cerrarán próximamente.",
+        "mensajeCerrado": "Lo sentimos, este curso ya no está disponible."
+    }
+}

@@ -1,0 +1,186 @@
+{
+  "tituloGeneral": "Curso Microsoft 365",
+  "descripcion": "",
+  "img": "img/banner-microsoft365.webp",
+  "mostrarBloquesEnMenu": true,
+  "bloques": [
+    {
+      "id": "basico",
+      "orden": 1,
+      "titulo": "Básico",
+      "mostrarTitulo": true,
+      "descripcion": "",
+      "img": "",
+      "emoji": "🟢",
+      "icon": "",
+      "color": "#00600080",
+      "expandible": true,
+      "contraido": false,
+      "habilitado": true,
+      "temas": [
+        {
+          "id": "intro",
+          "orden": 1,
+          "titulo": "Introducción a Microsoft 365",
+          "descripcion": "Introducción al curso",
+          "archivoMd": "00 - intro.md",
+          "img": "img/00 - intro/logo-microsoft-365.svg",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "success",
+          "outlined": false,
+          "habilitado": true
+        },
+        {
+          "id": "word",
+          "orden": 2,
+          "titulo": "Microsoft Word: Procesador de textos",
+          "descripcion": "Microsoft Word: Procesador de textos",
+          "archivoMd": "01 - word.md",
+          "img": "img/01 - word/logo-word.png",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "success",
+          "outlined": false,
+          "habilitado": true
+        },
+        {
+          "id": "excel",
+          "orden": 3,
+          "titulo": "Microsoft Excel: Hojas de cálculo",
+          "descripcion": "Microsoft Excel: Hojas de cálculo",
+          "archivoMd": "02 - excel.md",
+          "img": "img/02 - excel/logo-excel.png",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "success",
+          "outlined": false,
+          "habilitado": true
+        },
+        {
+          "id": "powerpoint",
+          "orden": 4,
+          "titulo": "Microsoft PowerPoint: Presentaciones",
+          "descripcion": "Microsoft PowerPoint: Presentaciones",
+          "archivoMd": "03 - powerpoint.md",
+          "img": "img/03 - powerpoint/logo-powerpoint.png",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "success",
+          "outlined": false,
+          "habilitado": true
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "orden": 2,
+      "titulo": "Avanzado",
+      "mostrarTitulo": true,
+      "descripcion": "",
+      "img": "",
+      "emoji": "🟠",
+      "icon": "",
+      "color": "#ff492950",
+      "expandible": true,
+      "contraido": false,
+      "habilitado": false,
+      "temas": [
+        {
+          "id": "outlook",
+          "orden": 1,
+          "titulo": "Outlook: Correo, contactos y calendario",
+          "descripcion": "Outlook: Correo, contactos y calendario",
+          "archivoMd": "04 - outlook.md",
+          "img": "img/04 - outlook/logo-outlook.png",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "warn",
+          "outlined": false,
+          "habilitado": false
+        },
+        {
+          "id": "onenote",
+          "orden": 2,
+          "titulo": "OneNote: Libreta digital",
+          "descripcion": "OneNote: Libreta digital",
+          "archivoMd": "05 - onenote.md",
+          "img": "img/05 - onenote/onenote-logo.png",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "warn",
+          "outlined": false,
+          "habilitado": false
+        },
+        {
+          "id": "planner",
+          "orden": 3,
+          "titulo": "Planner: Planificador de proyectos y tareas",
+          "descripcion": "Planner: Planificador de proyectos y tareas",
+          "archivoMd": "06 - planner.md",
+          "img": "img/06 - planner/planner-logo.png",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "warn",
+          "outlined": false,
+          "habilitado": false
+        },
+        {
+          "id": "sharepoint",
+          "orden": 4,
+          "titulo": "Sharepoint",
+          "descripcion": "Sharepoint",
+          "archivoMd": "07 - sharepoint.md",
+          "img": "img/07 - sharepoint/logo-sharepoint.png",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "warn",
+          "outlined": false,
+          "habilitado": false
+        }
+      ]
+    },
+    {
+      "id": "pildoras",
+      "orden": 3,
+      "titulo": "Píldoras",
+      "mostrarTitulo": true,
+      "descripcion": "",
+      "img": "",
+      "emoji": "💊",
+      "icon": "",
+      "color": "#0484c450",
+      "expandible": true,
+      "contraido": false,
+      "habilitado": true,
+      "temas": [
+        {
+          "id": "teams",
+          "orden": 1,
+          "titulo": "Microsoft Teams",
+          "descripcion": "Microsoft Teams",
+          "archivoMd": "teams.md",
+          "img": "img/teams/logo-teams.png",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "primary",
+          "outlined": false,
+          "habilitado": true
+        },
+        {
+          "id": "ia",
+          "orden": 2,
+          "titulo": "Inteligencia Artificial",
+          "descripcion": "Inteligencia Artificial: ChatGPT, Copilot, Gemini",
+          "archivoMd": "ia.md",
+          "img": "img/ia/logo-copilot.png",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "primary",
+          "outlined": false,
+          "habilitado": true
+        }
+      ]
+    }
+  ]
+}
