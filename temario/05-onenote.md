@@ -16,7 +16,7 @@
 
 <div style="text-align:center">
 <a target="_blank" href="https://support.microsoft.com/es-es/office/v%C3%ADdeo-de-aprendizaje-de-onenote-1c983b65-42f6-42c1-ab61-235aae5d0115">
-<img src="img/05 - onenote/onenote-logo.png" alt="Logo de Microsoft OneNote" style="width: 20rem;" /></a>
+<img src="img/05-onenote/onenote-logo.png" alt="Logo de Microsoft OneNote" style="width: 20rem;" /></a>
 </div>
 
 OneNote es como una libreta digital donde puedes anotar ideas, planificar proyectos, guardar recortes de información y mucho más. Piensa en ello como tu cuaderno de apuntes en formato digital, donde puedes escribir, dibujar y organizar todo tipo de contenido.
@@ -39,7 +39,7 @@ Para iniciarlo, tendremos varias opciones:
 
 OneNote es útil para muchas cosas. Puedes usarlo para tomar notas en reuniones, guardar enlaces y artículos interesantes, hacer listas de tareas (¡sí, también listas!), y hasta dibujar diagramas o bocetos. Es una herramienta súper versátil, perfecta para estudiantes, profesionales, o cualquier persona que necesite organizar sus pensamientos y proyectos.
 
-![Pantalla principal de OneNote](img/05 - onenote/image-20240802120535906.png)
+![Pantalla principal de OneNote](img/05-onenote/image-20240802120535906.png)
 
 
 
@@ -88,7 +88,7 @@ A continuación una captura de pantalla con un ejemplo más, sobre un bloc de no
 
 Puedes ver como quedaría organizado en OneNote:
 
-![Bloc de notas de prueba - Captura de pantalla](img/05 - onenote/image-20240802130656586.png)
+![Bloc de notas de prueba - Captura de pantalla](img/05-onenote/image-20240802130656586.png)
 
 Bloc de Notas: **Bloc de notas de prueba**
 
@@ -120,7 +120,7 @@ Bloc de Notas: **Bloc de notas de prueba**
 - **Sincronización y Acceso en Todos los Dispositivos**: Todo lo que escribes en OneNote se guarda automáticamente y puedes acceder a tus notas desde cualquier dispositivo: ordenador, teléfono o tablet.
 - **Integración con Outlook y Calendario:** Puedes tomar notas de las reuniones que tengas programadas en Outlook directamente con dos clics. En la pestaña `Inicio` > `Reuniones` > `Detalles de la reunión` podrás ver las reuniones que tengas planificadas y con hacer clic en ellas, se creará una página con los detalles de la reunión y lo dejará todo listo para empezar a tomar notas sobre la misma.
 
-![Captura de pantalla de OneNote mostrando la integración con el Calendario de Outlook](img/05 - onenote/image-20240802133234726.png)
+![Captura de pantalla de OneNote mostrando la integración con el Calendario de Outlook](img/05-onenote/image-20240802133234726.png)
 
 
 

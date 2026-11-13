@@ -13,7 +13,7 @@
 
 ## Introducción
 
-<img src="img/04 - outlook/logo-outlook.png" alt="Logo Outlook" width="50%" />
+<img src="img/04-outlook/logo-outlook.png" alt="Logo Outlook" width="50%" />
 
 **Outlook** es una aplicación de correo electrónico y gestión de información personal desarrollada por Microsoft. Tiene las siguientes funciones principales:
 
@@ -29,7 +29,7 @@ Para iniciar Outlook tenemos muchas opciones, veremos las más simples:
 
 - Desde cualquier navegador, acceder directamente a https://outlook.office.com. Si no tenemos la sesión iniciada nos pedirá nuestras credenciales para acceder.
 - Desde https://portal.office.com, en la barra lateral izquierda donde están todas las aplicaciones, hacemos clic sobre Outlook.
-  ![Acceso desde Portal Office](img/04 - outlook/image-20240628134351533.png)
+  ![Acceso desde Portal Office](img/04-outlook/image-20240628134351533.png)
 
 ---
 
@@ -43,7 +43,7 @@ Para iniciar Outlook tenemos muchas opciones, veremos las más simples:
 
 Una vez entramos a la aplicación, veremos la siguiente pantalla principal:
 
-![Pantalla principal de Outlook dividida por zonas](img/04 - outlook/image-20240701115120102.png)
+![Pantalla principal de Outlook dividida por zonas](img/04-outlook/image-20240701115120102.png)
 
 Destacando las siguientes zonas numeradas:
 
@@ -72,8 +72,8 @@ El correo electrónico es uno de los pilares fundamentales de Outlook. En esta s
 
 Para redactar un nuevo correo electrónico, sigue estos pasos:
 
-1. Abre **Outlook** y pulsa el botón de <kbd>Correo nuevo</kbd>. ![image-20240701113510326](img/04 - outlook/image-20240701113510326.png). Se mostrará una ventana como la siguiente:
-   <img src="img/04 - outlook/image-20240701113731648.png" alt="image-20240701113731648" style="zoom:67%;" />
+1. Abre **Outlook** y pulsa el botón de <kbd>Correo nuevo</kbd>. ![image-20240701113510326](img/04-outlook/image-20240701113510326.png). Se mostrará una ventana como la siguiente:
+   <img src="img/04-outlook/image-20240701113731648.png" alt="image-20240701113731648" style="zoom:67%;" />
 2. En el campo <kbd>Para</kbd>, ingresa la dirección de correo electrónico del destinatario principal.
 3. Si necesitas enviar copias a otros destinatarios, utiliza los campos <kbd>CC</kbd> (con copia) o <kbd>CCO</kbd> (con copia oculta).
 
@@ -90,7 +90,7 @@ Si deseas enviar archivos junto con el correo:
 
 1. Ve a la pestaña `Insertar` > `Adjuntar archivo`.
 
-   ![image-20240701120501374](img/04 - outlook/image-20240701120501374.png)
+   ![image-20240701120501374](img/04-outlook/image-20240701120501374.png)
 
 2. Se abrirá un desplegable para adjuntar archivos que tengamos en nuestro equipo, en OneDrive, etc. Si pulsamos en `Nuestro equipo` se abrirá una ventana para seleccionar archivos que tengamos localmente en nuestro PC. 
 
@@ -122,7 +122,7 @@ Antes de enviar el correo:
 
 El primer paso para revisar y leer los correos pendientes, será seleccionar la carpeta adecuada. Las carpetas que tengan correos sin leer aparecerán en negrita y además a la derecha aparecerá el número de correos sin leer que tienes en esa carpeta. 
 
-![Lista de carpetas](img/04 - outlook/image-20240701123337871.png)
+![Lista de carpetas](img/04-outlook/image-20240701123337871.png)
 
 
 
@@ -142,7 +142,7 @@ Las carpetas básicas son:
 >
 > Una manera eficiente de manejar tus correos, es mantener siempre tu bandeja de entrada limpia. 
 >
-> ![Árbol de decisiones para mantener una bandeja de entrada limpia](img/04 - outlook/image-20240801122242120.png)
+> ![Árbol de decisiones para mantener una bandeja de entrada limpia](img/04-outlook/image-20240801122242120.png)
 
 
 
@@ -150,7 +150,7 @@ Las carpetas básicas son:
 
 Una vez seleccionada la carpeta, se nos mostrará en el panel de lectura todos los correos de esa carpeta. De la misma forma al seleccionar un correo, se nos mostrará en el panel de lectura para poder leerlo.
 
-![Leer correos](img/04 - outlook/image-20240701131346778.png)
+![Leer correos](img/04-outlook/image-20240701131346778.png)
 
 > [!TIP]
 >
@@ -158,7 +158,7 @@ Una vez seleccionada la carpeta, se nos mostrará en el panel de lectura todos l
 
 En la parte superior derecha tenemos accesos directos a las acciones más comunes a realizar sobre un correo electrónico:
 
-![Acciones sobre un correo](img/04 - outlook/image-20240701132642832.png)
+![Acciones sobre un correo](img/04-outlook/image-20240701132642832.png)
 
 En orden son:
 
@@ -170,23 +170,23 @@ En orden son:
 
 - **Más acciones:** Otras acciones útiles como borrarlo, marcarlo como no leído, denunciar el contenido, bloquear el remitente, imprimirlo, etc.
 
-  <img src="img/04 - outlook/image-20240701132739617.png" alt="Mas acciones sobre un correo" style="zoom:67%;" />
+  <img src="img/04-outlook/image-20240701132739617.png" alt="Mas acciones sobre un correo" style="zoom:67%;" />
 
 Todas éstas acciones las encontrarás también en la cinta de opciones:
 
 **Simplificada:**
 
-![Cinta de opciones simplificada](img/04 - outlook/image-20240701133608763.png)
+![Cinta de opciones simplificada](img/04-outlook/image-20240701133608763.png)
 
 **Clásica:**
 
-![Cinta de opciones clásica](img/04 - outlook/image-20240701133814843.png)
+![Cinta de opciones clásica](img/04-outlook/image-20240701133814843.png)
 
 > [!TIP]
 >
 > Puedes cambiar el diseño de la cinta de opciones, en el botón que hay en la derecha de la cinta.
 >
-> <img src="img/04 - outlook/image-20240701133954422.png" alt="Diseño de la cinta de opciones" style="zoom:80%;" />
+> <img src="img/04-outlook/image-20240701133954422.png" alt="Diseño de la cinta de opciones" style="zoom:80%;" />
 
 
 
@@ -198,7 +198,7 @@ Outlook posee muchas opciones avanzadas que no veremos, pero hay dos muy simples
 
 La encontrarás en la cinta de opciones al seleccionar un correo electrónico. Al pulsarlo se abre un desplegable con unos tiempos que determina **cuándo volverá a aparecer el correo en la bandeja de entrada**. Desaparece de la bandeja de entrada y se mueve a una nueva carpeta llamada "Pospuesto". El correo permanecerá ahí el tiempo que hayamos elegido (también se puede seleccionar una fecha y hora concreta). Cuando pase el tiempo establecido, se moverá de nuevo a la bandeja de entrada como si fuese un correo nuevo.
 
-<img src="img/04 - outlook/image-20240701134724605.png" alt="image-20240701134724605" style="zoom:75%;" />
+<img src="img/04-outlook/image-20240701134724605.png" alt="image-20240701134724605" style="zoom:75%;" />
 
 Esto es muy útil para no **ocuparnos por ahora** de un correo ya sea porque no es importante o porque por ahora no podemos darle solución, y así podamos mantener limpia la bandeja de entrada.
 
@@ -206,7 +206,7 @@ Esto es muy útil para no **ocuparnos por ahora** de un correo ya sea porque no 
 
 Sirve para programar su entrega en una fecha y hora determinada en lugar de enviar el correo inmediatamente. El remitente no lo recibirá hasta la hora programada. Esta opción la encontrarás en un desplegable junto al botón de <kbd>Enviar</kbd>, en <kbd>Programar envío</kbd>.
 
-![image-20240701135500464](img/04 - outlook/image-20240701135500464.png)
+![image-20240701135500464](img/04-outlook/image-20240701135500464.png)
 
 Es muy útil por varias razones:
 
@@ -229,7 +229,7 @@ Los contactos en Outlook te permiten gestionar la información de las personas c
 
 En la página principal de Outlook, en la barra de accesos directos de la izquierda, tenemos el botón de <kbd>Contactos</kbd>.
 
-![Página principal de contactos](img/04 - outlook/image-20240702140648975.png)
+![Página principal de contactos](img/04-outlook/image-20240702140648975.png)
 
 La sección de contactos en Outlook funciona como una agenda personalizada. En ella, puedes almacenar y gestionar información sobre las personas con las que te comunicas regularmente. 
 
@@ -249,7 +249,7 @@ Es muy útil mantener nuestra lista actualizada, ya que nos ayudará a **enviar 
 
 El calendario de Microsoft 365 es una herramienta esencial para organizar tus eventos, citas y recordatorios. Desde programar reuniones hasta establecer alertas, el calendario te ayuda a gestionar tu tiempo de manera eficiente.
 
-![Pantalla principal del calendario de Outlook](img/04 - outlook/image-20240702152658509.png)
+![Pantalla principal del calendario de Outlook](img/04-outlook/image-20240702152658509.png)
 
 ## Acceso al Calendario
 
@@ -259,7 +259,7 @@ Puedes acceder al calendario a través de [Outlook en la web](https://outlook.of
 
 Para crear un evento o reunión, simplemente selecciona el día y la hora en el calendario y añade detalles como el título, la ubicación y una descripción. Puedes configurar recordatorios y establecer si el evento se repite.
 
-![Creación de un evento de calendario](img/04 - outlook/image-20240801105957413.png)
+![Creación de un evento de calendario](img/04-outlook/image-20240801105957413.png)
 
 ### Invitación a Participantes
 
@@ -273,13 +273,13 @@ Para convertir el evento en una reunión, solo tienes que invitar a otras person
 
 Selecciona la duración del evento (1 hora, 30 minutos, etc.). Si la reunión será recurrente, como una reunión semanal de equipo, configura la periodicidad (diaria, semanal, mensual, etc.).
 
-<img src="img/04 - outlook/image-20241108153818928.png" alt="image-20241108153818928" style="zoom:75%;" />
+<img src="img/04-outlook/image-20241108153818928.png" alt="image-20241108153818928" style="zoom:75%;" />
 
 ## Configuración de recordatorios y notificaciones
 
 Los recordatorios ayudan a los usuarios a no perder de vista sus próximos compromisos, avisándoles antes de que estos comiencen.
 
-<img src="img/04 - outlook/image-20241108145048677.png" alt="image-20241108145048677" style="zoom:75%;" />
+<img src="img/04-outlook/image-20241108145048677.png" alt="image-20241108145048677" style="zoom:75%;" />
 
 1. **Agregar recordatorios:** Al crear un evento, puedes configurar un recordatorio para que te avise minutos, horas o días antes del evento. Por ejemplo, puedes establecer un recordatorio 15 minutos antes de una reunión.
 2. **Notificaciones de cambio:** Si el organizador hace algún cambio en el horario o los detalles de la reunión, los asistentes recibirán una notificación automática con la nueva información. Esto es útil para asegurarse de que todos estén al tanto de los cambios y eviten confusiones.
@@ -298,13 +298,13 @@ Una de las características clave del Calendario de Microsoft 365 es su integrac
 
 El calendario ofrece diferentes vistas (diaria, semanal, mensual) para ayudarte a visualizar tu agenda. Además, puedes categorizar eventos por color, lo que facilita la identificación rápida de tipos de eventos o su prioridad.
 
-![Captura de pantalla de la cinta de opciones en el nuevo Outlook con selecciones para cambiar la vista de calendario](img/04 - outlook/7f09206f-03ff-49fe-8ab8-9ce9f4a3ca7a.png)
+![Captura de pantalla de la cinta de opciones en el nuevo Outlook con selecciones para cambiar la vista de calendario](img/04-outlook/7f09206f-03ff-49fe-8ab8-9ce9f4a3ca7a.png)
 
 ## Sincronización y acceso móvil
 
 Todos los cambios realizados en el calendario se sincronizan automáticamente en todos los dispositivos. Esto asegura que siempre tengas la información más actualizada, sin importar dónde te encuentres.
 
-<img src="img/04 - outlook/marco-movil.png" alt="Captura de pantalla simulada de Outlook en un móvil Android" style="width: 70%" />
+<img src="img/04-outlook/marco-movil.png" alt="Captura de pantalla simulada de Outlook en un móvil Android" style="width: 70%" />
 
 ## Enfoque en la productividad
 
@@ -330,7 +330,7 @@ Se accede mediante el botón de <kbd>⚙️Configuración</kbd> en la esquina su
 
 Para ir directamente a `Configuración` > `Calendario` > `Horas de trabajo y ubicación` puedes ir a: https://outlook.office.com/mail/options/calendar/workSchedule
 
-![Configuración de las horas de trabajo y ubicación](img/04 - outlook/image-20240801135158407.png)
+![Configuración de las horas de trabajo y ubicación](img/04-outlook/image-20240801135158407.png)
 
 > [!TIP]
 >
@@ -349,7 +349,7 @@ Outlook facilita la compartición de tu calendario y permite a otros ver tu disp
 
    - En la pestaña **Calendario**, selecciona **`Compartir`** y elige con quién deseas compartirlo. Puedes compartir con permisos de solo lectura o permitir que otros modifiquen eventos (esto es ideal para asistentes administrativos o coordinadores de equipo).
 
-   <img src="img/04 - outlook/image-20241108150821485.png" alt="image-20241108150821485" style="zoom:67%;" />
+   <img src="img/04-outlook/image-20241108150821485.png" alt="image-20241108150821485" style="zoom:67%;" />
 
    > [!note]
    >
@@ -363,7 +363,7 @@ Outlook facilita la compartición de tu calendario y permite a otros ver tu disp
 
 2. **Establecer la visibilidad de los eventos:** Para cada evento, puedes definir si quieres que se muestre como "Disponible", "Trabajando en otro sitio", "Provisional", "Ocupado" o “Fuera de la oficina”. Esto permite a otros miembros ver tus tiempos de disponibilidad sin que tengan acceso al contenido del evento.
 
-   <img src="img/04 - outlook/image-20241108151021698.png" alt="image-20241108151021698" style="zoom:67%;" />
+   <img src="img/04-outlook/image-20241108151021698.png" alt="image-20241108151021698" style="zoom:67%;" />
 
 3. **Establecer etiquetas:** 
 
@@ -371,7 +371,7 @@ Outlook facilita la compartición de tu calendario y permite a otros ver tu disp
 
    - Además, si tienes eventos privados, puedes marcarlos como tales para que el contenido permanezca oculto (pulsando el icono del candado).
 
-     <img src="img/04 - outlook/image-20241108151348834.png" alt="image-20241108151348834" style="zoom:67%;" />
+     <img src="img/04-outlook/image-20241108151348834.png" alt="image-20241108151348834" style="zoom:67%;" />
 
      
 
@@ -389,13 +389,13 @@ Outlook facilita la compartición de tu calendario y permite a otros ver tu disp
 
 # Tareas
 
-![Pantalla principal de Tareas de Outlook](img/04 - outlook/image-20240801124056536.png)
+![Pantalla principal de Tareas de Outlook](img/04-outlook/image-20240801124056536.png)
 
 ¿Alguna vez has sentido que tienes mil cosas por hacer y no sabes por dónde empezar? ¡No te preocupes! Las Tareas de Outlook están aquí para ayudarte. Son como tu lista de tareas pendientes digital, donde puedes anotar todo lo que necesitas hacer, desde enviar ese correo importante hasta recordar comprar leche.
 
 Las Tareas de Outlook son súper útiles para mantenerte organizado. Puedes crear tareas, asignarles fechas de vencimiento, agregarles notas y hasta dividirlas en subtareas. Así, no se te escapa nada y puedes llevar un control de todo lo que tienes que hacer. Además, puedes marcarlas como completadas cuando las termines, lo cual siempre da gustito y una sensación de logro.
 
-![Pantalla de ejemplo con varias tareas creadas en Outlook](img/04 - outlook/image-20240801132801311.png)
+![Pantalla de ejemplo con varias tareas creadas en Outlook](img/04-outlook/image-20240801132801311.png)
 
 > [!TIP]
 >

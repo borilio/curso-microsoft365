@@ -16,7 +16,7 @@
 
 ## Introducción
 
-<img src="img/02 - excel/logo-excel.png" alt="Logo Excel" width="50%" />
+<img src="img/02-excel/logo-excel.png" alt="Logo Excel" width="50%" />
 
 https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb
 
@@ -47,13 +47,13 @@ De forma predeterminada, al crear un nuevo libro, se crea una hoja. Se pueden a�
 
 Al iniciar Excel aparece una **pantalla inicial** como esta:
 
-![image-20240426120142899](img/02 - excel/image-20240426120142899.png){.rounded-4}
+![image-20240426120142899](img/02-excel/image-20240426120142899.png){.rounded-4}
 
 Si abrimos un **Libro en blanco**, clicando sobre la primera opción del menú de la derecha, se nos mostrará una hoja de cálculo. Vamos a ver sus componentes fundamentales: así conoceremos los **nombres de los diferentes elementos** y será más fácil entender el resto del curso. 
 
 La pantalla que se muestra a continuación (y en general todas las de este curso) puede no coincidir exactamente con la que ves en tu ordenador, ya que cada usuario puede decidir qué elementos quiere que se vean en cada momento.
 
-![image-20240426120833077](img/02 - excel/image-20240426120833077.png){.rounded-4}
+![image-20240426120833077](img/02-excel/image-20240426120833077.png){.rounded-4}
 
 ## Entorno
 
@@ -63,18 +63,18 @@ El entorno es muy parecido al de Word, la pestaña archivo tiene las mismas opci
 
 Las **fichas principales** son **Inicio**, **Insertar**, **Diseño de página**, **Fórmulas**, **Datos**, **Revisar** y **Vista**. En ellas se encuentran los distintos botones con las opciones disponibles.
 
-![image-20240426121321537](img/02 - excel/image-20240426121321537.png){.rounded-2}
+![image-20240426121321537](img/02-excel/image-20240426121321537.png){.rounded-2}
 
 🟩**Barra de fórmulas**
 
 
-![barra formulas](img/02 - excel/b_formula_excel_2016.png){.rounded-2}
+![barra formulas](img/02-excel/b_formula_excel_2016.png){.rounded-2}
 
 Nos **muestra el contenido de la celda activa**, es decir, la casilla donde estamos situados. Cuando vayamos a modificar el contenido de la celda, dicha barra variará ligeramente, pero esto lo estudiaremos más adelante.
 
 🟩**La barra de etiquetas**
 
-![barra etiquetas](img/02 - excel/b_etiqueta_excel_2016.png){.rounded-2}
+![barra etiquetas](img/02-excel/b_etiqueta_excel_2016.png){.rounded-2}
 
 Está ubicada en la esquina inferior izquierda y permite **movernos por las distintas hojas** del libro de trabajo, así como gestionarlas (añadir, borrar, moverlas, renombrarlas, etc.).
 
@@ -86,7 +86,7 @@ Está ubicada en la esquina inferior izquierda y permite **movernos por las dist
 
 Las hojas están divididas en celdas. Las filas están referenciadas con letras, y las columnas con números, de forma que para hacer referencia a una celda concreta, tenemos que usar su letra y su número.
 
-![image-20240426122539053](img/02 - excel/image-20240426122539053.png){.rounded-2}
+![image-20240426122539053](img/02-excel/image-20240426122539053.png){.rounded-2}
 
 - Fíjate que cuando seleccionamos una celda, en la **barra de fórmulas** sale su ubicación (`B4`) y el valor que contiene (`Esta es la celda B4`).
 - Hemos puesto un texto en unas celdas cualquiera, para que veas como podemos referenciar una celda en concreto.
@@ -99,7 +99,7 @@ Situar el cursor sobre la celda donde se van a introducir los datos y teclear lo
 
 Aparecerán en dos lugares: en la **celda activa** y en la **Barra de Fórmulas**, como puedes observar en el dibujo siguiente:
 
-![ejemplo](img/02 - excel/intro_excel_2016.png){.rounded-2}
+![ejemplo](img/02-excel/intro_excel_2016.png){.rounded-2}
 
 Para introducir el valor en la celda puedes utilizar cualquiera de los tres métodos que te explicamos a continuación:
 
@@ -199,7 +199,7 @@ Un error muy común que se suele cometer al empezar con Excel es que pensamos qu
 
 🟩 **Para lo que si:** Sirve mayormente para hacer cálculos. Imagina la siguiente factura en Word:
 
-<img src="img/02 - excel/factura.webp" alt="img" style="zoom:100%;" class="rounded-4" />
+<img src="img/02-excel/factura.webp" alt="img" style="zoom:100%;" class="rounded-4" />
 
 1. En Word, deberíamos escribir los artículos, la cantidad, el precio unitario y NOSOTROS tener que calcular el precio total de ese artículo
 2. Repetir el proceso con todos los artículos.
@@ -244,7 +244,7 @@ $$
 - Si haces clic izquierdo con el ratón sobre una celda, se quedará seleccionada y como **contenido de la celda verás el resultado** de ejecutar la fórmula, mientras que en **barra de fórmulas verás su fórmula**.
 - Si haces doble clic sobre una celda, entras en modo edición, desaparece el resultado, aparece la fórmula y puedes modificarla. Al pulsar <kbd>Intro</kbd> se valida la fórmula y si es correcta, volverá a aparecer el resultado.
 
-![image-20240426131111252](img/02 - excel/image-20240426131111252.png){.rounded-2}
+![image-20240426131111252](img/02-excel/image-20240426131111252.png){.rounded-2}
 
 ## Tipos de operadores
 
@@ -287,7 +287,7 @@ En una fórmula podemos encontrarnos varios operadores, veamos los tipos de oper
 | :------- | :-------------- | :----------------------------------------------------------- |
 | `:`      | Rango de celdas | `=B1:B8` Referencia todas celdas comprendidas desde `B1` hasta `B8` |
 
-![image-20240426135724404](img/02 - excel/image-20240426135724404.png){.rounded-2}
+![image-20240426135724404](img/02-excel/image-20240426135724404.png){.rounded-2}
 
 ## Prioridad
 
@@ -327,7 +327,7 @@ Los operadores aritméticos siguen las mismas reglas que en matemáticas, que b�
 
 Cuando introducimos una fórmula en una celda puede ocurrir que se produzca un **error**. Dependiendo del tipo de error puede que Excel nos avise o no.
 
-![pantalla error](img/02 - excel/error_mensaje_excel_2016.png){.rounded-2}
+![pantalla error](img/02-excel/error_mensaje_excel_2016.png){.rounded-2}
 
 Nos da una posible propuesta que podemos aceptar haciendo clic sobre el botón **Sí** o rechazar utilizando el botón **No**.
 
@@ -345,7 +345,7 @@ A veces no saldrá ninguna ventana, si no que en el contenido de la celda aparec
 
 > [!NOTE] 
 >
-> También en estos casos, la celda contendrá además un símbolo en la esquina superior izquierda tal como: ![error valor](img/02 - excel/comentario2_excel_2016.png){.img-inline}.
+> También en estos casos, la celda contendrá además un símbolo en la esquina superior izquierda tal como: ![error valor](img/02-excel/comentario2_excel_2016.png){.img-inline}.
 > 
 
 
@@ -356,7 +356,7 @@ A veces no saldrá ninguna ventana, si no que en el contenido de la celda aparec
 
 2. Haremos la tabla de multiplicar del 1. Algo parecido a lo siguiente:
 
-   <img src="img/02 - excel/image-20240603101604225.png" alt="image-20240603101604225" style="zoom:80%;" class="rounded-2" />
+   <img src="img/02-excel/image-20240603101604225.png" alt="image-20240603101604225" style="zoom:80%;" class="rounded-2" />
 
 3. En la última columna incluiremos una fórmula para calcular el resultado de multiplicar el primer número por el segundo.
 
@@ -364,7 +364,7 @@ A veces no saldrá ninguna ventana, si no que en el contenido de la celda aparec
 
 5. Le vamos a incluir en una celda cualquiera el número del que queremos su tabla de multiplicar. En el ejemplo la hemos puesto en `G2`.
 
-   ![image-20240427140354433](img/02 - excel/image-20240427140354433.png){.rounded-2}
+   ![image-20240427140354433](img/02-excel/image-20240427140354433.png){.rounded-2}
 
 6. Sustituiremos todas las constantes de la columna `B` (el valor 1) por el valor que haya en la celda `G2`, usando una fórmula.
 
@@ -406,7 +406,7 @@ Aunque lo anterior mola, es mucho más útil **extender una fórmula a otras cel
 1. **Selecciona la celda con la fórmula o el dato a extender**:
    - Haz clic en la celda que contiene la fórmula que deseas extender.
 2. **Ubica el punto de relleno**:
-   - En la esquina inferior derecha de la celda seleccionada, verás un pequeño cuadrado llamado “punto de relleno”.  ![transformación del puntero](img/02 - excel/copiar_excel_2013.gif){.img-inline}
+   - En la esquina inferior derecha de la celda seleccionada, verás un pequeño cuadrado llamado “punto de relleno”.  ![transformación del puntero](img/02-excel/copiar_excel_2013.gif){.img-inline}
    - Este punto de relleno te permite copiar y extender la fórmula.
 3. **Arrastra el punto de relleno hacia el rango deseado**:
    - Haz clic en el punto de relleno y arrástralo hacia abajo (o hacia la derecha) para extender la fórmula a las celdas adyacentes.
@@ -478,7 +478,7 @@ Excel incluye **más de 350 funciones** integradas que abarcan una amplia varied
 
 Puedes encontrarlas agrupados por categorías en la pestaña **`Fórmulas` > `Biblioteca de funciones`**.
 
-![image-20240427183650152](img/02 - excel/image-20240427183650152.png){.rounded-2}
+![image-20240427183650152](img/02-excel/image-20240427183650152.png){.rounded-2}
 
 Por razones obvias no las veremos todas 🤯. Algunas de las funciones más utilizadas son:
 
@@ -589,11 +589,11 @@ Por ejemplo, al introducir una fórmula manualmente podemos cometer un error sin
 
 Si pulsamos sobre la pestaña **`Fórmulas`** > **`Auditoría de fórmulas`** > **`Comprobación de errores...`** 
 
-![Comprobar fórmulas](img/02 - excel/comprobar_errores_formulas_2016.png)
+![Comprobar fórmulas](img/02-excel/comprobar_errores_formulas_2016.png)
 
 Aparece el cuadro de diálogo **Comprobaciones de errores** como el que vemos en la imagen donde nos informa del tipo de error que se ha detectado y, en ocasiones, nos ofrece una corrección.
 
-![comprobar error](img/02 - excel/comprobar_error_2016.png){.rounded-4}
+![comprobar error](img/02-excel/comprobar_error_2016.png){.rounded-4}
 
 La parte más interesante es la descripción del error. Lo normal es que con ella sepamos cuál es el problema y, pulsando **Modificar en la barra de fórmulas**, la rectifiquemos manualmente.
 
@@ -614,11 +614,11 @@ Para **aplicar una validación a una celda.**
 - Seleccionamos la celda que queremos validar.
 - Accedemos a la pestaña **`Datos`** > **`Herramientas de datos`** > **`Validación de datos`**.
 
-![Botón - Validar datos](img/02 - excel/btn_validar_datos_2016.png)
+![Botón - Validar datos](img/02-excel/btn_validar_datos_2016.png)
 
 Nos aparece un cuadro de diálogo **Validación de datos** como el que vemos en la imagen donde podemos elegir entre varios tipos de validaciones.
 
-![validar datos](img/02 - excel/validar_datos_2016.png){.rounded-4}
+![validar datos](img/02-excel/validar_datos_2016.png){.rounded-4}
 
 En la sección **Criterio de validación** indicamos la condición para que el dato sea correcto.
 
@@ -636,9 +636,9 @@ En la pestaña **Mensaje de error** podemos escribir el mensaje de error que que
 >
 > También podemos limitar los valores de una celda a un rango de valores previamente establecidos, de forma que al introducir los valores me sale un desplegable con valores para elegir.
 >
-> ![image-20240506185947012](img/02 - excel/image-20240506185947012.png){.rounded-4}
+> ![image-20240506185947012](img/02-excel/image-20240506185947012.png){.rounded-4}
 >
-> ![image-20240506190011045](img/02 - excel/image-20240506190011045.png){.rounded-2}
+> ![image-20240506190011045](img/02-excel/image-20240506190011045.png){.rounded-2}
 
 
 
@@ -666,15 +666,15 @@ Por ejemplo, yo quiero guardar una cantidad que representa dinero, pues puedo gu
 
 En la pestaña `Inicio` > `Número`, pulsamos sobre el desplegable de `General`.
 
-![image-20240429194035453](img/02 - excel/image-20240429194035453.png){.rounded-2}
+![image-20240429194035453](img/02-excel/image-20240429194035453.png){.rounded-2}
 
 Al abrir el desplegable, se mostrarán las distintos formatos para los datos más comunes:
 
-![image-20240429194112927](img/02 - excel/image-20240429194112927.png){.rounded-4}
+![image-20240429194112927](img/02-excel/image-20240429194112927.png){.rounded-4}
 
 Si pulsamos en **Más formatos de número...**, aparecerá una ventana como la siguiente para obtener más opciones sobre cada formato o bien crear nuestros propios formatos personalizados.
 
-![image-20240429195441284](img/02 - excel/image-20240429195441284.png){.rounded-4}
+![image-20240429195441284](img/02-excel/image-20240429195441284.png){.rounded-4}
 
 > [!NOTE]
 >
@@ -743,7 +743,7 @@ El formato condicional sirve para que, dependiendo del valor de la celda, Excel 
 
 El formato condicional suele utilizarse para resaltar errores, para valores que cumplan una determinada condición, para resaltar las celdas según el valor contenido en ella, etc.
 
-![Menú formato condicional](img/02 - excel/formato_condicional_menu_2016.png)
+![Menú formato condicional](img/02-excel/formato_condicional_menu_2016.png)
 
 Cómo **aplicar un formato condicional** a una celda:
 
@@ -756,7 +756,7 @@ Nosotros nos fijaremos en la opción **Nueva regla** que permite crear una regla
 
 Nos aparece un cuadro de diálogo **Nueva regla de formato** como el que vemos en la imagen.
 
-![formato condicional](img/02 - excel/formato_condicional_2016.png){.rounded-4}
+![formato condicional](img/02-excel/formato_condicional_2016.png){.rounded-4}
 
 En este cuadro seleccionaremos un tipo de regla. Normalmente querremos que se **aplique el formato únicamente a las celdas que contengan** un valor, aunque puedes escoger otro diferente.
 
@@ -786,11 +786,11 @@ Si pulsamos sobre **Cancelar**, no se aplicarán los cambios efectuados en el fo
 
 4. Valor de la celda menor o igual a 5000, pulsamos formato y elegimos un formato amarillo.
 
-   ![image-20240429215515057](img/02 - excel/image-20240429215515057.png){.rounded-4}
+   ![image-20240429215515057](img/02-excel/image-20240429215515057.png){.rounded-4}
 
 5. Pulsamos `Aceptar`, y comprobamos que se han aplicado correctamente los estilos de acuerdo a la regla.
 
-   ![image-20240429215756784](img/02 - excel/image-20240429215756784.png){.rounded-2}
+   ![image-20240429215756784](img/02-excel/image-20240429215756784.png){.rounded-2}
 
 6. Repetimos el procedimiento para añadir la siguiente regla (mayores de 5.000€).
 
@@ -798,13 +798,13 @@ Si pulsamos sobre **Cancelar**, no se aplicarán los cambios efectuados en el fo
 
 8. Comprobamos que se muestra todo correcto.
 
-   ![image-20240429220541543](img/02 - excel/image-20240429220541543.png){.rounded-2}
+   ![image-20240429220541543](img/02-excel/image-20240429220541543.png){.rounded-2}
 
 > [!TIP]
 >
 > Si queremos modificar las reglas existentes, seleccionamos el rango, `Inicio` > `Formato Condicional` > `Administrar reglas`. Nos saldrá una ventana como la siguiente:
 >
-> ![image-20240429220741745](img/02 - excel/image-20240429220741745.png){.rounded-4}
+> ![image-20240429220741745](img/02-excel/image-20240429220741745.png){.rounded-4}
 >
 > Ahí veremos todas las reglas aplicadas y podemos hacer doble clic sobre la que queramos para modificarla. Desde ahí también podemos crear una nueva, editarlas, eliminarlas y duplicarlas.
 
@@ -833,7 +833,7 @@ Un tema es un conjunto de **formatos que conforman el estilo general que present
 
 Para cambiar el tema nos situaremos en la pestaña **Disposición de página**, en la sección **Temas**.
 
-![Temas](img/02 - excel/temas_2016.png)
+![Temas](img/02-excel/temas_2016.png)
 
 Esto ya lo vimos en Word, por lo que sólo lo nombramos para que sepas que sigue ahí y porque sabemos que a todo el mundo le gusta cambiar colorines 😘.
 
@@ -853,7 +853,7 @@ Es más sencillo añadir los valores directamente en unos rangos de celdas para 
 
 Supongamos que tenemos los siguientes datos:
 
-![image-20240504133424908](img/02 - excel/image-20240504133424908.png){.rounded-4}
+![image-20240504133424908](img/02-excel/image-20240504133424908.png){.rounded-4}
 
 <details>
     <summary>📋Puedes copiar y pegar de aquí</summary>
@@ -922,17 +922,17 @@ Supongamos que tenemos los siguientes datos:
 
 3. Se desplegará la lista de estilos de tablas y seleccionamos el que queramos. También podrás volver a modificarlo más adelante si no te convence el que elijas ahora.
 
-   ![image-20240504133643462](img/02 - excel/image-20240504133643462.png){.rounded-4}
+   ![image-20240504133643462](img/02-excel/image-20240504133643462.png){.rounded-4}
 
 4. Nos saldrá la siguiente ventana:
 
-   ![image-20240504133732455](img/02 - excel/image-20240504133732455.png){.rounded-4}
+   ![image-20240504133732455](img/02-excel/image-20240504133732455.png){.rounded-4}
 
 5. Ahí nos preguntará el rango donde se encuentran los datos y se mostrará automáticamente el rango que seleccionamos en el paso 1 (si no lo hicimos, ahora podemos hacerlo). Como también le incluimos los encabezados en la selección, le dejamos marcada la opción de `La tabla tiene encabezados`.
 
 6. Y ya nos mostrará la tabla formateada, con opciones en las columnas para **reordenar**, **filtrar**, etc.
 
-   ![image-20240504134202027](img/02 - excel/image-20240504134202027.png){.rounded-4}
+   ![image-20240504134202027](img/02-excel/image-20240504134202027.png){.rounded-4}
 
 > [!TIP]
 >
@@ -946,15 +946,15 @@ Para **crear una tabla**, seguiremos los siguientes pasos:
 
 1. Seleccionar `Insertar` > `Tabla`.
 
-![Botón Tabla](img/02 - excel/insertar_tabla_2016.png){.rounded-3}
+![Botón Tabla](img/02-excel/insertar_tabla_2016.png){.rounded-3}
 
 2. Aparecerá a continuación el cuadro de diálogo **Crear tabla**.
 
-![Cuadro diálogo Crear tabla](img/02 - excel/dialogo_crear_tabla_2016.png){.rounded-3}
+![Cuadro diálogo Crear tabla](img/02-excel/dialogo_crear_tabla_2016.png){.rounded-3}
 
 3. Y en la hoja de cálculo aparece el rango seleccionado con el formato propio de la tabla.
 
-![img](img/02 - excel/ejemplo_tabla_2016.png){.rounded-3}
+![img](img/02-excel/ejemplo_tabla_2016.png){.rounded-3}
 
 Ahora podemos **ordenar** los registros, **filtrar** contenidos y **aplicar formatos** de una forma más rápida e intuitiva. Sin olvidar de lo bonita que queda la tabla 😍.
 
@@ -978,7 +978,7 @@ Ahora podemos **ordenar** los registros, **filtrar** contenidos y **aplicar form
 2. **Facilidad de mantenimiento**: Si tienes una fórmula compleja que utiliza varias celdas, asignar nombres a esas celdas te permite actualizarlas más fácilmente. Por ejemplo, si cambias el nombre de una variable, Excel automáticamente actualizará todas las referencias a esa variable en tus fórmulas.
 3. **Referencias más intuitivas**: Cuando trabajas con varias hojas en Excel, puedes hacer referencia a las variables de otras hojas utilizando sus nombres. Esto es especialmente útil cuando creas fórmulas que involucran datos de diferentes lugares. Por ejemplo, si tienes una hoja de “Ventas” y otra de “Gastos”, puedes usar los nombres de las variables para calcular el beneficio neto en una tercera hoja.
 
-![image-20240606090156723](img/02 - excel/image-20240606090156723.png){.rounded-4}
+![image-20240606090156723](img/02-excel/image-20240606090156723.png){.rounded-4}
 
 > [!tip]
 >
@@ -1011,7 +1011,7 @@ Aquí tienes dos formas sencillas de hacerlo:
 >
 > En `Fórmulas` > `Nombres definidos` > `Administrador de nombres` encontrarás una ventana donde poder administrar todas las variables creadas en el libro.
 >
-> ![image-20240429233229318](img/02 - excel/image-20240429233229318.png){.rounded-4}
+> ![image-20240429233229318](img/02-excel/image-20240429233229318.png){.rounded-4}
 
 > [!WARNING]
 >
@@ -1036,7 +1036,7 @@ En esta unidad, vamos a ver cómo **crear gráficos a partir de unos datos intro
 
 Para insertar un gráfico tenemos varias opciones, pero siempre utilizaremos pestaña **`Insertar`** > **`Gráficos`**.
 
-![image-20240429223236834](img/02 - excel/image-20240429223236834.png){.rounded-4}
+![image-20240429223236834](img/02-excel/image-20240429223236834.png){.rounded-4}
 
 1. Selecciona el rango de celdas que quieres que participen en el gráfico. De esta forma, Excel podrá generarlo automáticamente.
 
@@ -1054,11 +1054,11 @@ Tenemos los siguientes datos de fechas, temperatura y humedad relativa.
 
 3. Vemos que el gráfico tiene sentido y que representaría correctamente una progresión de unos días y la evolución de la temperatura. Así que pulsamos **Aceptar**.
 
-   ![image-20240429235609453](img/02 - excel/image-20240429235609453.png){.rounded-4}
+   ![image-20240429235609453](img/02-excel/image-20240429235609453.png){.rounded-4}
 
 4. Y ya solo nos quedaría personalizar el gráfico. Moverlo, colores, rótulos, tamaños, etc. 
 
-   ![image-20240430000204832](img/02 - excel/image-20240430000204832.png){.rounded-4}
+   ![image-20240430000204832](img/02-excel/image-20240430000204832.png){.rounded-4}
 
 > [!TIP]
 >
@@ -1066,7 +1066,7 @@ Tenemos los siguientes datos de fechas, temperatura y humedad relativa.
 >
 > Las opciones de personalización de gráficos son muchísimas. Por lo que te recomendamos paciencia y mucho ensayo y error. Es imposible verlas todas en un curso tan corto 😅.
 >
-> ![image-20240430000333800](img/02 - excel/image-20240430000333800.png){.rounded-4}
+> ![image-20240430000333800](img/02-excel/image-20240430000333800.png){.rounded-4}
 
 
 
@@ -1097,7 +1097,7 @@ Queremos hacer lo siguiente:
 4. Añadir un formato condicional para las cifras en negativo (que se vea en rojo).
 5. Añadir un gráfico de barras para ver la evolución de los gastos e ingresos.
 
-![image-20240430204704164](img/02 - excel/image-20240430204704164.png){.rounded-4}
+![image-20240430204704164](img/02-excel/image-20240430204704164.png){.rounded-4}
 
 Hazlo mas o menos así. No te preocupes si no es exactamente igual. Dale tu toque personal👩‍🎨.
 
@@ -1109,13 +1109,13 @@ Hazlo mas o menos así. No te preocupes si no es exactamente igual. Dale tu toqu
 
 Este paso es el más importante de todos ya que en él **definiremos qué datos queremos que aparezcan en el gráfico**. Si observamos la pestaña **Diseño,** encontraremos dos opciones muy útiles relacionadas con los **Datos**:
 
-![Datos](img/02 - excel/datos_graficos_2016.png)
+![Datos](img/02-excel/datos_graficos_2016.png)
 
 Primero nos fijaremos en el botón **Seleccionar datos**. Desde él se abre el siguiente cuadro de diálogo:
 
-![Seleccionar origen de datos](img/02 - excel/seleccionar_origen_datos_2013.gif){.rounded-4}
+![Seleccionar origen de datos](img/02-excel/seleccionar_origen_datos_2013.gif){.rounded-4}
 
-En el campo **Rango de datos del gráfico**, debemos indicar el rango de celdas que se tomarán en cuenta para crear el gráfico. En el caso de la imagen, hemos englobado de la celda **C7** a la **E8** (6 celdas). Para escoger los datos puedes escribir el rango o bien pulsar el botón ![selección de datos](img/02 - excel/boton_seleccion_excel_2013.gif){.img-inline} y seleccionar las celdas en la hoja.
+En el campo **Rango de datos del gráfico**, debemos indicar el rango de celdas que se tomarán en cuenta para crear el gráfico. En el caso de la imagen, hemos englobado de la celda **C7** a la **E8** (6 celdas). Para escoger los datos puedes escribir el rango o bien pulsar el botón ![selección de datos](img/02-excel/boton_seleccion_excel_2013.gif){.img-inline} y seleccionar las celdas en la hoja.
 
 Una vez hayamos acotado los datos que utilizaremos, Excel asociará unos al eje horizontal (categorías) y otros al eje vertical (series). Ten en cuenta que hay gráficos que necesitan más de dos series para poder crearse (por ejemplo, los gráficos de superficie) mientras que otros, en cambio, (como el que ves en la imagen) se bastan con una sola.
 
@@ -1127,7 +1127,7 @@ Si haces clic en el botón **Celdas ocultas y vacías,** abrirás un pequeño cu
 
 Los cambios que vas realizando en la ventana se van viendo plasmados en un gráfico. Cuando acabes de configurar el origen de datos, pulsa el botón **Aceptar**.
 
-![Ejemplo de gráfico](img/02 - excel/grafico_sample_2016.png){.rounded-4}
+![Ejemplo de gráfico](img/02-excel/grafico_sample_2016.png){.rounded-4}
 
 ## 👨‍🏫Ejercicio 8
 
@@ -1171,11 +1171,11 @@ Supongamos que estamos en un curso en el que tenemos que asistir un determinado 
 
 2. En la siguiente columna, añadiremos las horas que hemos asistido cada día. Los días que no hayas asistido todavía, déjalos en blanco. Algo como la siguiente imagen:
 
-   ![image-20240506175635983](img/02 - excel/image-20240506175635983.png){.rounded-4}
+   ![image-20240506175635983](img/02-excel/image-20240506175635983.png){.rounded-4}
 
 3. En la parte derecha de la hoja de cálculo, es donde haremos los cálculos para mostrarlos, de la siguiente manera:
 
-   ![image-20240506180310822](img/02 - excel/image-20240506180310822.png){.rounded-4}
+   ![image-20240506180310822](img/02-excel/image-20240506180310822.png){.rounded-4}
 
 4. Asigna un nombre a cada celda. Si no recuerdas como, puedes repasar el apartado que vimos en [Nombres de variables](#Nombres de variables).
 
@@ -1206,11 +1206,11 @@ Supongamos que estamos en un curso en el que tenemos que asistir un determinado 
 11. Vamos a añadir los siguientes formatos condicionales: 
 
     1. Que nos aparezca en rojo cuando tenemos un porcentaje asistido del 0 al 50, en amarillo si es mayor de 50 y menor de 75, y en verde si es mayor o igual a 75.
-    2. Prueba a usar un conjunto de iconos ade de darle estilo a la celda. Algo como ![image-20240506193916282](img/02 - excel/image-20240506193916282.png){.img-inline} o ![image-20240506193956696](img/02 - excel/image-20240506193956696.png){.img-inline}.
+    2. Prueba a usar un conjunto de iconos ade de darle estilo a la celda. Algo como ![image-20240506193916282](img/02-excel/image-20240506193916282.png){.img-inline} o ![image-20240506193956696](img/02-excel/image-20240506193956696.png){.img-inline}.
 
 12. Muestra dos celdas nuevas, que cuente el número total de días que tiene el curso y el número total de días introducidos, teniendo en cuenta que si dejamos una celda de las horas en blanco es que no se ha introducido, y si tiene un número (cualquiera) es que se ha introducido. No hay pistas. ¡Tu puedes 💪!.
 
-    ![image-20240506195111727](img/02 - excel/image-20240506195111727.png){.rounded-4}
+    ![image-20240506195111727](img/02-excel/image-20240506195111727.png){.rounded-4}
 
 ## Ejercicio 10
 
@@ -1220,7 +1220,7 @@ Introducir en una celda la altura de una persona (en metros) y en una celda su p
 $$
 IMC = peso / altura^2
 $$
-![image-20240604112941976](img/02 - excel/image-20240604112941976.png){.rounded-3}
+![image-20240604112941976](img/02-excel/image-20240604112941976.png){.rounded-3}
 
 ## Ejercicio 11
 

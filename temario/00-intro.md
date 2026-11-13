@@ -12,7 +12,7 @@
 
 ## ¿Qué es Microsoft 365?
 
-![nuevo logo de Microsoft 365](img/00 - intro/microsoft-365-1200x670.webp){.rounded-4}
+![nuevo logo de Microsoft 365](img/00-intro/microsoft-365-1200x670.webp){.rounded-4}
 
 Microsoft 365, anteriormente conocido como Office 365, es un servicio de suscripción de Microsoft que ofrece una suite completa de aplicaciones ofimáticas. Entre las aplicaciones más utilizadas se encuentran Word, Excel, PowerPoint, Outlook y OneNote. 
 
@@ -37,11 +37,11 @@ Microsoft 365 ofrece soluciones que pueden ser de gran ayuda para empresas de cu
 
 - **Colaboración sin barreras:** Microsoft 365 facilita el trabajo en equipo incluso cuando los empleados están en ubicaciones geográficas distintas. Herramientas como Teams permiten mantener una comunicación constante, organizar reuniones virtuales y trabajar en conjunto en documentos en tiempo real, sin importar dónde se encuentren.
 
-  ![image-20241107200608853](img/00 - intro/image-20241107200608853.png){.rounded-4}
+  ![image-20241107200608853](img/00-intro/image-20241107200608853.png){.rounded-4}
 
 - **Gestión de proyectos y organización de recursos:** Aplicaciones como *Planner* y *To Do* ayudan a estructurar y organizar tareas, facilitando la asignación de responsabilidades y el seguimiento de proyectos en curso. Esto es ideal para coordinar esfuerzos en iniciativas específicas dentro de la empresa y asegurar que cada miembro tenga claro su rol y sus tareas.
 
-  ![image-20240807140214914](img/00 - intro/image-20240807140214914.png){.rounded-1}
+  ![image-20240807140214914](img/00-intro/image-20240807140214914.png){.rounded-1}
 
 - **Almacenamiento seguro y accesible:** Con OneDrive y SharePoint, la empresa puede almacenar de forma segura documentos importantes, como informes, contratos o presupuestos. Además, estos archivos están disponibles en la nube, por lo que se puede acceder a ellos desde cualquier dispositivo, lo que facilita compartirlos entre los miembros autorizados sin necesidad de estar en la oficina.
 
@@ -51,7 +51,7 @@ Microsoft 365 ofrece soluciones que pueden ser de gran ayuda para empresas de cu
 
 - **Herramientas de análisis de datos:** Con Power BI, la empresa puede realizar análisis de datos sobre proyectos, resultados, ventas, rendimiento del equipo, etc. Esto permite generar informes visuales y obtener insights que ayudan en la toma de decisiones estratégicas.
 
-  ![Power BI Dashboard](img/00 - intro/dashboard-mockup.png)
+  ![Power BI Dashboard](img/00-intro/dashboard-mockup.png)
 
 
 
@@ -65,15 +65,15 @@ Microsoft 365 ofrece soluciones que pueden ser de gran ayuda para empresas de cu
 
 🟦**Pestaña de inicio:** Aquí verás un resumen de tu actividad, archivos compartidos, abiertos y editados recientemente.
 
-![image-20241107201228045](img/00 - intro/image-20241107201228045.png){.rounded-4}
+![image-20241107201228045](img/00-intro/image-20241107201228045.png){.rounded-4}
 
 🟦**Pestaña de Aplicaciones:** Desde aquí podrás acceder a todas las aplicaciones, tanto en sus versiones web como al instalador para las versiones de escritorio.
 
-![image-20241107201443321](img/00 - intro/image-20241107201443321.png){.rounded-4}
+![image-20241107201443321](img/00-intro/image-20241107201443321.png){.rounded-4}
 
 🟦**Configuración:** Aquí podrás cambiar el tema por defecto (fondo y combinación de colores) de la pantalla principal de office.com.
 
-<img src="img/00 - intro/image-20241107204347433.png" alt="image-20241107204347433" style="zoom:80%;" class="rounded-4" />
+<img src="img/00-intro/image-20241107204347433.png" alt="image-20241107204347433" style="zoom:80%;" class="rounded-4" />
 
 
 

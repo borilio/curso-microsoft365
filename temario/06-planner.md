@@ -12,7 +12,7 @@
 ## Introducción
 
 <div style="text-align:center">
-    <a target="_blank" href="https://support.microsoft.com/es-es/office/aprendizaje-en-v%C3%ADdeo-de-microsoft-planner-4d71390f-08d8-4db0-84ea-92fb078687c7"><img src="img/06 - planner/planner-logo.png" alt="Logo Microsoft Planner" style="width:20rem;" /></a>
+    <a target="_blank" href="https://support.microsoft.com/es-es/office/aprendizaje-en-v%C3%ADdeo-de-microsoft-planner-4d71390f-08d8-4db0-84ea-92fb078687c7"><img src="img/06-planner/planner-logo.png" alt="Logo Microsoft Planner" style="width:20rem;" /></a>
 </div>
 
 
@@ -21,7 +21,7 @@
 
 Microsoft Planner es como un tablero de corcho digital donde puedes organizar tus tareas. Cada "plan" es como un proyecto con su propio tablero, y puedes mover las tareas según su estado, como si fueran notas adhesivas.
 
-<img src="img/06 - planner/tablero-corcho-dalle.jpg" alt="tablero de corcho con pegatinas adhesivas, como un organizador de un proyecto" style="width: 40rem" />
+<img src="img/06-planner/tablero-corcho-dalle.jpg" alt="tablero de corcho con pegatinas adhesivas, como un organizador de un proyecto" style="width: 40rem" />
 
 
 
@@ -40,26 +40,26 @@ Para empezar a  trabajar con Planner tiene varias opciones:
 
 - 🌐Abrir la aplicación web en tu navegador, ya sea en Windows, MacOS o Linux: https://tasks.office.com/.
 - 📱Instalar la aplicación móvil:
-  - <img src="img/06 - planner/d0f190c0-0287-4df6-9667-52d8a71090f5.png" alt="Android icon" style="width:1.5rem" />Android: https://play.google.com/store/apps/details?id=com.microsoft.planner&hl=es_419
-  - <img src="img/06 - planner/29b76bad-520b-467e-adb1-cf96e8e89534.png" alt="Apple icon" style="width:1.5rem" />iOS: https://apps.apple.com/es/app/microsoft-planner/id1219301037
+  - <img src="img/06-planner/d0f190c0-0287-4df6-9667-52d8a71090f5.png" alt="Android icon" style="width:1.5rem" />Android: https://play.google.com/store/apps/details?id=com.microsoft.planner&hl=es_419
+  - <img src="img/06-planner/29b76bad-520b-467e-adb1-cf96e8e89534.png" alt="Apple icon" style="width:1.5rem" />iOS: https://apps.apple.com/es/app/microsoft-planner/id1219301037
 
 
 
 Una vez abierta e iniciada la sesión con nuestra cuenta de Microsoft 365, veremos una pantalla como la siguiente:
 
-![image-20240807115513325](img/06 - planner/image-20240807115513325.png)
+![image-20240807115513325](img/06-planner/image-20240807115513325.png)
 
 ## Cómo Crear un Nuevo Plan
 
 Abre Microsoft Planner desde tu cuenta de Microsoft 365 y haz clic en <kbd>Crear un plan</kbd>. Ponle un nombre, elige si es público o privado, ¡y listo!
 
-![Captura de pantalla de Nuevo plan](img/06 - planner/image-20240807122818369.png)
+![Captura de pantalla de Nuevo plan](img/06-planner/image-20240807122818369.png)
 
 ## Configurar el Plan
 
 Después de crear el plan, puedes agregar una descripción, establecer permisos y personalizarlo según lo que necesite tu equipo.
 
-![Pantalla de plan recién creado en blanco, sin tareas ni nada](img/06 - planner/image-20240807123746445.png)
+![Pantalla de plan recién creado en blanco, sin tareas ni nada](img/06-planner/image-20240807123746445.png)
 
 > [!TIP]
 >
@@ -71,7 +71,7 @@ Si deseamos usar el plan de forma colaborativa con otros compañeros, deberemos 
 
 También así podremos asignarles tareas a los miembros de nuestro plan.
 
-![Agregar miembros al plan para usarlo de forma colaborativa](img/06 - planner/image-20240807130107804.png)
+![Agregar miembros al plan para usarlo de forma colaborativa](img/06-planner/image-20240807130107804.png)
 
 
 
@@ -81,7 +81,7 @@ Dentro de cada plan, puedes crear **tareas**. Cada tarea puede tener un nombre, 
 
 Usando el botón <kbd>+ Agregar Tarea</kbd> podemos crear tareas.
 
-![Agregar tareas](img/06 - planner/image-20240807131756574.png)
+![Agregar tareas](img/06-planner/image-20240807131756574.png)
 
 La tarea básica puede constar de:
 
@@ -101,11 +101,11 @@ Una vez creada, se puede hacer clic en ella y añadirle más características co
 - **Archivos adjuntos:** Para adjuntar un archivo a la tarea y que cualquier miembro pueda acceder. Los archivos se pueden seleccionar desde OneDrive.
 - **Comentarios:** Cualquier comentario que queramos hacer sobre la realización de la tarea.
 
-![Tareas, características avanzadas de las tareas, como prioridades, depósitos, fechas de inicio y repetición, notas, listas, archivos adjuntos y más](img/06 - planner/image-20240807132505572.png)
+![Tareas, características avanzadas de las tareas, como prioridades, depósitos, fechas de inicio y repetición, notas, listas, archivos adjuntos y más](img/06-planner/image-20240807132505572.png)
 
 Una vez creadas las tareas, se verán en el plan de la siguiente forma:
 
-![Vista panel del plan](img/06 - planner/image-20240807134131759.png)
+![Vista panel del plan](img/06-planner/image-20240807134131759.png)
 
 
 
@@ -115,7 +115,7 @@ Los **depósitos** (o cubos o *buckets*) son únicamente columnas dentro del tab
 
 Una **organización muy extendida es crear depósitos por estado**. Ya por defecto viene un depósito llamado `Pendientes`. Tan solo deberíamos crear otro para `En proceso` y otro para `Completadas`. Así podemos ir moviendo las tareas de una columna a otra conforme se vayan realizando, tan solo arrastrándolas con el ratón. Adicionalmente se puede crear un depósito para las tareas Bloqueadas, que es cuando no está terminada por alguna razón que impide que se pueda completar, pudiendo tener una visión más global del plan.
 
-![Organizando el plan con los depósitos](img/06 - planner/image-20240807140214914.png)
+![Organizando el plan con los depósitos](img/06-planner/image-20240807140214914.png)
 
 > [!TIP]
 >
@@ -125,7 +125,7 @@ Una **organización muy extendida es crear depósitos por estado**. Ya por defec
 
 ## Vistas
 
-![Selección de vistas para el plan](img/06 - planner/image-20240807150404993.png)
+![Selección de vistas para el plan](img/06-planner/image-20240807150404993.png)
 
 Hay varias vistas para el plan que te ayudan a gestionar y organizar tus tareas de diferentes maneras, permitiéndote elegir la que mejor se adapte a tus necesidades en cada momento:
 
@@ -133,15 +133,15 @@ Hay varias vistas para el plan que te ayudan a gestionar y organizar tus tareas 
 
 - **Cuadrícula:** Una vista en forma de lista donde puedes ver todas las tareas en filas, como si fuera una hoja de Excel. Es útil para obtener una visión rápida y detallada de cada tarea, con todos sus detalles como fecha de vencimiento, asignados y estado. Se puede ordenar por cualquier columna, agrupando así las tareas por progreso, cubos, fechas, prioridad y demás.
 
-  ![Vista cuadrícula](img/06 - planner/image-20240807142302877.png)
+  ![Vista cuadrícula](img/06-planner/image-20240807142302877.png)
 
 - **Gráficos:** Una vista que muestra gráficos y diagramas sobre el progreso de tu plan. Perfecta para obtener una visión general rápida del estado del proyecto, viendo cuántas tareas están completadas, en proceso o pendientes. Los gráficos de pastel y barras ayudan a visualizar el progreso y las cargas de trabajo de los miembros del plan.
 
-  ![Ejemplo de Vista de gráfico: Sacado del Blog Agile - Olga Martí](img/06 - planner/Charts-Planner.png)
+  ![Ejemplo de Vista de gráfico: Sacado del Blog Agile - Olga Martí](img/06-planner/Charts-Planner.png)
 
 - **Programación:** Una vista tipo calendario que muestra las tareas según sus fechas de vencimiento. Útil para planificar y programar tareas en el tiempo, asegurando que no haya conflictos y que las fechas importantes sean visibles.
 
-  ![Vista de programación](img/06 - planner/vista-programacion.png)
+  ![Vista de programación](img/06-planner/vista-programacion.png)
 
 
 

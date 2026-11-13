@@ -10,7 +10,7 @@
 
 # SharePoint
 
-![Logo SharePoint](img/07 - sharepoint/logo-sharepoint.png)
+![Logo SharePoint](img/07-sharepoint/logo-sharepoint.png)
 
 ## Introducción a SharePoint
 
@@ -18,7 +18,7 @@ SharePoint es una herramienta de Microsoft 365 que permite a las empresas almace
 
 SharePoint te permite crear una especie de **"página web" interna** o portal donde puedes **reunir y organizar diferentes elementos de Microsoft 365** en un solo lugar, accesible para tu equipo o empresa.
 
-![image-20240814124814765](img/07 - sharepoint/image-20240814124814765.png)
+![image-20240814124814765](img/07-sharepoint/image-20240814124814765.png)
 
 Por ejemplo, en un sitio de SharePoint puedes:
 
@@ -92,7 +92,7 @@ Ahora que ya tenemos una visión global y conocemos las ventajas de SharePoint, 
 2. Busca el icono de SharePoint en el panel de aplicaciones. 
 3. Al hacer clic en él, serás llevado a la página principal de SharePoint de tu organización, donde podrás ver los sitios a los que tienes acceso y buscar otros sitios o recursos dentro de tu organización.
 
-![Página principal de SharePoint](img/07 - sharepoint/image-20240814123907776.png)
+![Página principal de SharePoint](img/07-sharepoint/image-20240814123907776.png)
 
 
 
@@ -116,7 +116,7 @@ Para **crear un nuevo sitio en SharePoint**, comienza desde la página principal
 
 Lo primero que nos preguntará es si queremos crear un **sitio de grupo** o un **sitio de comunicación**.
 
-![Pantalla de elección del tipo de sitio a crear](img/07 - sharepoint/image-20240814130030655.png)
+![Pantalla de elección del tipo de sitio a crear](img/07-sharepoint/image-20240814130030655.png)
 
 - **Sitio de Grupo**: Diseñado para la **colaboración en equipo**, este tipo de sitio facilita el trabajo conjunto en proyectos. Incluye herramientas como bibliotecas de documentos, listas, y calendarios compartidos. Ideal para equipos que necesitan un **espacio privado centralizado** para organizar y colaborar en su trabajo diario.
 - **Sitio de Comunicación**: Enfocado en **compartir información** con una audiencia más amplia, como toda la empresa o un departamento. Es ideal para publicar noticias, anuncios o información general. Ofrece un diseño más orientado a la comunicación y presentación de contenido, en lugar de colaboración activa en documentos.
@@ -137,7 +137,7 @@ Una vez creado el sitio, podrás personalizarlo agregando bibliotecas de documen
 
 SharePoint permite editar y adaptar todo el contenido creado inicialmente según las necesidades del equipo o de la información que quieras centralizar. En la **parte superior derecha** del sitio, encontrarás un botón que dice <kbd>**Editar**</kbd> o tiene un ícono de lápiz. Haz clic en este botón para entrar en el modo de edición.
 
-![Barra de navegación de un sitio en SharePoint](img/07 - sharepoint/image-20240814132231286.png)
+![Barra de navegación de un sitio en SharePoint](img/07-sharepoint/image-20240814132231286.png)
 
 **Modo Edición**
 
@@ -145,7 +145,7 @@ Una vez estás en modo de edición, verás una serie de **botones y opciones** e
 
 Puedes **agregar nuevos elementos**, como secciones, texto, imágenes o documentos, utilizando los botones disponibles. También puedes **modificar el diseño** del sitio arrastrando y soltando componentes, o ajustando las configuraciones de cada elemento.
 
-![Modo edición en un sitio de SharePoint](img/07 - sharepoint/image-20240814133231235.png)
+![Modo edición en un sitio de SharePoint](img/07-sharepoint/image-20240814133231235.png)
 
 **Guardar y Publicar Cambios**:
 
