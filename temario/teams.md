@@ -1,13 +1,4 @@
-<div style="padding: 1.5rem; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; background-color: #d9edf7; border-color: #bce8f1; color: #31708f; text-align: center; font-size: 2.5rem; display: inline-block; width: 100%;">
-    <p>Microsoft Teams</p>
-    <p style="font-size: 1.5rem">Comunicación y Colaboración en Equipo</p>
-</div>
-
-
 [TOC]
-
----
-
 
 # Introducción a Microsoft Teams
 

@@ -1,9 +1,3 @@
-<div style="padding: 1.5rem; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; background-color: #d9edf7; border-color: #bce8f1; color: #31708f; text-align: center; font-size: 2.5rem; display: inline-block; width: 100%;">
-    <p>1. Microsoft Word</p>
-</div>
-
-
-
 [TOC]
 
 # 1. Entorno

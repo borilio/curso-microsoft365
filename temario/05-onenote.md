@@ -1,14 +1,4 @@
-<div style="padding: 2rem; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; background-color: #d9edf7; border-color: #bce8f1; color: #31708f; text-align: center; font-size: 3.5rem">
-  5. OneNote
-</div>
-
-
 [TOC]
-
----
-
-
-
 
 # OneNote
 
