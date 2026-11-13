@@ -47,7 +47,7 @@ De forma predeterminada, al crear un nuevo libro, se crea una hoja. Se pueden a�
 
 Al iniciar Excel aparece una **pantalla inicial** como esta:
 
-![image-20240426120142899](img\02 - excel\image-20240426120142899.png){.rounded-4}
+![image-20240426120142899](img/02 - excel/image-20240426120142899.png){.rounded-4}
 
 Si abrimos un **Libro en blanco**, clicando sobre la primera opción del menú de la derecha, se nos mostrará una hoja de cálculo. Vamos a ver sus componentes fundamentales: así conoceremos los **nombres de los diferentes elementos** y será más fácil entender el resto del curso. 
 

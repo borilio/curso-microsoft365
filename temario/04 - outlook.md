@@ -73,7 +73,7 @@ El correo electrónico es uno de los pilares fundamentales de Outlook. En esta s
 Para redactar un nuevo correo electrónico, sigue estos pasos:
 
 1. Abre **Outlook** y pulsa el botón de <kbd>Correo nuevo</kbd>. ![image-20240701113510326](img/04 - outlook/image-20240701113510326.png). Se mostrará una ventana como la siguiente:
-   <img src="entos a mi/Mis temarios/Curso de Microsoft 365 (completo)/img/04 - outlook/image-20240701113731648.png" alt="image-20240701113731648" style="zoom:67%;" />
+   <img src="img/04 - outlook/image-20240701113731648.png" alt="image-20240701113731648" style="zoom:67%;" />
 2. En el campo <kbd>Para</kbd>, ingresa la dirección de correo electrónico del destinatario principal.
 3. Si necesitas enviar copias a otros destinatarios, utiliza los campos <kbd>CC</kbd> (con copia) o <kbd>CCO</kbd> (con copia oculta).
 
