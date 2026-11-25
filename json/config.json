@@ -5,6 +5,7 @@
     "temasDisponibles": ["github-light", "github-sepia", "typora", "github-dark", "cervantes", "retro", "hud"],
     "mostrarLigadurasFuentes": false,
     "devMode": true,
+    "guardarPreferencias": false,
     "data": {
         "copyright": "",
         "logos": [
